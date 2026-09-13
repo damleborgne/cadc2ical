@@ -16,12 +16,12 @@ permissions:
 
 concurrency:
   group: update-cadc-calendar
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -31,7 +31,7 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
       - name: Update calendar
-        run: python cadc2ical.py --output calendar/cadc.ics --state data/meetings.json
+        run: python cadc2ical.py --output calendar/cadc.ics --state data/meetings.json --no-bootstrap-ics --max-detail-fetches 100
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
