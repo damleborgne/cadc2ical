@@ -1,5 +1,6 @@
 name: Update CADC calendar
 
+# RSS-only mirror: changing this workflow also triggers a fresh sync.
 on:
   push:
     branches: [main]
