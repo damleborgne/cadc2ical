@@ -4,8 +4,1872 @@ PRODID:-//damleborgne//cadc2ical//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:CADC Astronomy Meetings
-X-WR-CALDESC:International astronomy meetings mirrored from the Canadian 
- Astronomy Data Centre
+X-WR-CALDESC:International astronomy meetings mirrored from the CADC RSS 
+ feed
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:cadc-9117@cadc2ical
+DTSTAMP:20260225T162323Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260919
+SUMMARY:17th European VLBI Network Symposium and Users' Meeting
+LOCATION:Manchester\, United Kingdom
+URL:https://www.e-merlin.ac.uk/EVNSymp2026/
+DESCRIPTION:CADC meeting #9117\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9117\nMeeting website: https://www.e-merlin.ac.uk/EVNSymp20
+ 26/
+X-CADC-MEETING-NUMBER:9117
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10007@cadc2ical
+DTSTAMP:20260527T081733Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260916
+SUMMARY:BRIdge the Disciplines related to Galactic Chemical Evolution (BR
+ IDGCE) School 2026
+LOCATION:University of Hertfordshire\, Hatfield\, United Kingdom
+URL:https://sites.google.com/view/bridgce-herts-2026/the-school
+DESCRIPTION:CADC meeting #10007\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10007\nMeeting website: https://sites.google.com/view/brid
+ gce-herts-2026/the-school
+X-CADC-MEETING-NUMBER:10007
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10000@cadc2ical
+DTSTAMP:20260511T154236Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260919
+SUMMARY:Gravity@Prague 2026
+LOCATION:Prague\, Czech Republic
+URL:https://gravity-prague.fzu.cz/
+DESCRIPTION:CADC meeting #10000\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10000\nMeeting website: https://gravity-prague.fzu.cz/
+X-CADC-MEETING-NUMBER:10000
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9978@cadc2ical
+DTSTAMP:20260407T171201Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260918
+SUMMARY:Illuminating the Active Universe: Multi-Wavelength and Multi-Mess
+ enger Insights into AGN
+LOCATION:ESO Headquarters in Garching
+URL:https://indico.global/event/17292/overview
+DESCRIPTION:CADC meeting #9978\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9978\nMeeting website: https://indico.global/event/17292/ov
+ erview
+X-CADC-MEETING-NUMBER:9978
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10013@cadc2ical
+DTSTAMP:20260527T081856Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260919
+SUMMARY:IMPRS Summer School on "Cosmic Multiplicity: Evolution and Fate o
+ f Binary Stars"
+LOCATION:Heidelberg\, Germany
+URL:https://www.imprs-hd.mpg.de/Summer-School
+DESCRIPTION:CADC meeting #10013\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10013\nMeeting website: https://www.imprs-hd.mpg.de/Summer
+ -School
+X-CADC-MEETING-NUMBER:10013
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9936@cadc2ical
+DTSTAMP:20260217T154815Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260919
+SUMMARY:International Symposium "Our Non-Stable Universe"\, dedicated to 
+ the 80th anniversary of the Byurakan Astrophysical Observatory (BAO)
+LOCATION:Yerevan\, Armenia
+URL:https://www.bao.am/meetings/meetings/BAO80/
+DESCRIPTION:CADC meeting #9936\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9936\nMeeting website: https://www.bao.am/meetings/meetings
+ /BAO80/
+X-CADC-MEETING-NUMBER:9936
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9947@cadc2ical
+DTSTAMP:20260220T205215Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260924
+SUMMARY:8th LOFAR Data School
+LOCATION:ASTRON\, Dwingeloo\, the Netherlands
+URL:https://acme-lds2026.sciencesconf.org/
+DESCRIPTION:CADC meeting #9947\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9947\nMeeting website: https://acme-lds2026.sciencesconf.or
+ g/
+X-CADC-MEETING-NUMBER:9947
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10014@cadc2ical
+DTSTAMP:20260527T135610Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260919
+SUMMARY:BRIdge the Disciplines related to Galactic Chemical Evolution (BR
+ IDGCE) Annual Meeting 2026
+LOCATION:University of Hertfordshire\, Hatfield\, United Kingdom
+URL:https://sites.google.com/view/bridgce-herts-2026/the-meeting
+DESCRIPTION:CADC meeting #10014\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10014\nMeeting website: https://sites.google.com/view/brid
+ gce-herts-2026/the-meeting
+X-CADC-MEETING-NUMBER:10014
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9960@cadc2ical
+DTSTAMP:20260308T165707Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20261003
+SUMMARY:Mineral and Material Sciences for Space Exploration
+LOCATION:Nairobi\, Kenya
+URL:https://cospar.uonbi.ac.ke/
+DESCRIPTION:CADC meeting #9960\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9960\nMeeting website: https://cospar.uonbi.ac.ke/
+X-CADC-MEETING-NUMBER:9960
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9126@cadc2ical
+DTSTAMP:20260318T143044Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260926
+SUMMARY:AGN on the Beach II: A multi-scale view of jetted AGN
+LOCATION:Diani\, Kenya
+URL:https://www.jb.man.ac.uk/AGNbeachII/
+DESCRIPTION:CADC meeting #9126\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9126\nMeeting website: https://www.jb.man.ac.uk/AGNbeachII/
+X-CADC-MEETING-NUMBER:9126
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9903@cadc2ical
+DTSTAMP:20260112T184606Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260926
+SUMMARY:Charting the future of stellar and exoplanets spectroscopy. A ESO
+ -INAF-OCA conference in honor of Luca Pasquini.
+LOCATION:Procchio\, Elba Island\, Italy
+URL:https://www.eso.org/sci/meetings/2026/CHASES2026.html
+DESCRIPTION:CADC meeting #9903\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9903\nMeeting website: https://www.eso.org/sci/meetings/202
+ 6/CHASES2026.html
+X-CADC-MEETING-NUMBER:9903
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9948@cadc2ical
+DTSTAMP:20260220T205404Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260926
+SUMMARY:DISCO: Disks in Context
+LOCATION:National Radio Astronomy Observatory\, Charlottesville\, USA
+URL:https://sites.google.com/view/disksincontext
+DESCRIPTION:CADC meeting #9948\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9948\nMeeting website: https://sites.google.com/view/disksi
+ ncontext
+X-CADC-MEETING-NUMBER:9948
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9989@cadc2ical
+DTSTAMP:20260421T152309Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260926
+SUMMARY:HERA 2026: Black holes at different flavours
+LOCATION:Bartycka 18\, 00-716\, Warsaw\, Poland
+URL:https://events.camk.edu.pl/event/138/
+DESCRIPTION:CADC meeting #9989\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9989\nMeeting website: https://events.camk.edu.pl/event/138
+ /
+X-CADC-MEETING-NUMBER:9989
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9962@cadc2ical
+DTSTAMP:20260308T164856Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260926
+SUMMARY:Star Formation Fields
+LOCATION:Crete
+URL:https://star-formation-fields.univie.ac.at
+DESCRIPTION:CADC meeting #9962\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9962\nMeeting website: https://star-formation-fields.univie
+ .ac.at
+X-CADC-MEETING-NUMBER:9962
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9965@cadc2ical
+DTSTAMP:20260311T152909Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20261010
+SUMMARY:The Interstellar Institute #8 - from milli to Mega parsec
+LOCATION:Institut Pascal\, Paris-Saclay University\, Orsay\, France
+URL:https://interstellarinstitute.org/II8
+DESCRIPTION:CADC meeting #9965\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9965\nMeeting website: https://interstellarinstitute.org/II
+ 8
+X-CADC-MEETING-NUMBER:9965
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9967@cadc2ical
+DTSTAMP:20260311T153205Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20261004
+SUMMARY:13th IRAM Millimeter Interferometry School
+LOCATION:Hotel Mercure Centre Porte des Alpes in Grenoble/France
+URL:https://iram-institute.org/science-portal/events/interferometry-schoo
+ l/13th-iram-interferometry-school-2026/
+DESCRIPTION:CADC meeting #9967\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9967\nMeeting website: https://iram-institute.org/science-p
+ ortal/events/interferometry-school/13th-iram-interferometry-school-2026/
+X-CADC-MEETING-NUMBER:9967
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9971@cadc2ical
+DTSTAMP:20260318T142350Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20261003
+SUMMARY:LSST@Europe8
+LOCATION:Budapest\, Hungary
+URL:https://lsst-europe8.hu/index.php
+DESCRIPTION:CADC meeting #9971\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9971\nMeeting website: https://lsst-europe8.hu/index.php
+X-CADC-MEETING-NUMBER:9971
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10017@cadc2ical
+DTSTAMP:20260605T164333Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20261003
+SUMMARY:MATISSE Science Days
+LOCATION:Budapest\, Hungary
+URL:https://vlti-ec.konkoly.hu/matisse2026/
+DESCRIPTION:CADC meeting #10017\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10017\nMeeting website: https://vlti-ec.konkoly.hu/matisse
+ 2026/
+X-CADC-MEETING-NUMBER:10017
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9980@cadc2ical
+DTSTAMP:20260401T164423Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261009
+SUMMARY:21th Serbian astronomical conference
+LOCATION:Belgrade\, Serbia
+URL:https://astro.matf.bg.ac.rs/kas21/
+DESCRIPTION:CADC meeting #9980\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9980\nMeeting website: https://astro.matf.bg.ac.rs/kas21/
+X-CADC-MEETING-NUMBER:9980
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9893@cadc2ical
+DTSTAMP:20251220T165056Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261010
+SUMMARY:Cosmic Rays 4: the salt of the star formation recipe
+LOCATION:Pisa\, Italy
+URL:https://sites.google.com/view/cosmic-rays-4
+DESCRIPTION:CADC meeting #9893\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9893\nMeeting website: https://sites.google.com/view/cosmic
+ -rays-4
+X-CADC-MEETING-NUMBER:9893
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9132@cadc2ical
+DTSTAMP:20251103T194934Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261010
+SUMMARY:IAC 77th International Astronautical Congress
+LOCATION:Antalya\, Turkey
+URL:https://www.iafastro.org/assets/files/events/iac/2026/IAC_2026_Call_f
+ or_Papers.pdf
+DESCRIPTION:CADC meeting #9132\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9132\nMeeting website: https://www.iafastro.org/assets/file
+ s/events/iac/2026/IAC_2026_Call_for_Papers.pdf
+X-CADC-MEETING-NUMBER:9132
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9121@cadc2ical
+DTSTAMP:20251017T155831Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261010
+SUMMARY:SPAICE: AI in and for Space
+LOCATION:ESTEC\, Noordwijk\, The Netherlands
+URL:https://spaice.esa.int/2026/
+DESCRIPTION:CADC meeting #9121\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9121\nMeeting website: https://spaice.esa.int/2026/
+X-CADC-MEETING-NUMBER:9121
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9995@cadc2ical
+DTSTAMP:20260504T182822Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261010
+SUMMARY:Stellar Intensity Interferometry Workshop 2026
+LOCATION:La Palma\, Spain
+URL:https://agenda.ciemat.es/event/5477/
+DESCRIPTION:CADC meeting #9995\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9995\nMeeting website: https://agenda.ciemat.es/event/5477/
+X-CADC-MEETING-NUMBER:9995
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9992@cadc2ical
+DTSTAMP:20260423T014709Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261010
+SUMMARY:Type II Supernovae: The Chaotic Deaths of Supergiants and their C
+ osmic Implications
+LOCATION:San Pedro de Atacama\, Chile
+URL:https://www.eso.org/sci/meetings/2026/SNII-RSG.html
+DESCRIPTION:CADC meeting #9992\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9992\nMeeting website: https://www.eso.org/sci/meetings/202
+ 6/SNII-RSG.html
+X-CADC-MEETING-NUMBER:9992
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9958@cadc2ical
+DTSTAMP:20260303T233102Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261010
+SUMMARY:Understanding the Universe through Large Scale Astronomical Surve
+ ys
+LOCATION:Teruel\, Spain
+URL:https://www.cefca.es/research/understanding_universe_large_surveys
+DESCRIPTION:CADC meeting #9958\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9958\nMeeting website: https://www.cefca.es/research/unders
+ tanding_universe_large_surveys
+X-CADC-MEETING-NUMBER:9958
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9901@cadc2ical
+DTSTAMP:20260108T215944Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261017
+SUMMARY:5th Astro-COLIBRI Multi-Messenger Astrophysics Workshop
+LOCATION:Institut Pascal\, University Paris-Saclay (France)
+URL:https://multimessenger-astrophysics.com/
+DESCRIPTION:CADC meeting #9901\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9901\nMeeting website: https://multimessenger-astrophysics.
+ com/
+X-CADC-MEETING-NUMBER:9901
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9979@cadc2ical
+DTSTAMP:20260414T221554Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261017
+SUMMARY:ACME Hands-On Observational School in Optical Follow-Up of Transi
+ ents
+LOCATION:Asiago (Italy)
+URL:https://acme-asiago-sch.sciencesconf.org/
+DESCRIPTION:CADC meeting #9979\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9979\nMeeting website: https://acme-asiago-sch.sciencesconf
+ .org/
+X-CADC-MEETING-NUMBER:9979
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9888@cadc2ical
+DTSTAMP:20251218T193122Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261017
+SUMMARY:Many faces of stellar-mass black holes
+LOCATION:Kathmandu\, Nepal
+URL:https://sites.google.com/view/bh-nepal-2026/home
+DESCRIPTION:CADC meeting #9888\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9888\nMeeting website: https://sites.google.com/view/bh-nep
+ al-2026/home
+X-CADC-MEETING-NUMBER:9888
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9889@cadc2ical
+DTSTAMP:20251218T193252Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261017
+SUMMARY:the Pathfinder HI SCience Community (PHISCC) Workshop 2026
+LOCATION:Kavli Inst. for Astronomy & Astrophysics (KIAA)\, Peking Univ.\,
+  Beijing\, China
+URL:https://phiscc2026.github.io/
+DESCRIPTION:CADC meeting #9889\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9889\nMeeting website: https://phiscc2026.github.io/
+X-CADC-MEETING-NUMBER:9889
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10003@cadc2ical
+DTSTAMP:20260515T175051Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261022
+SUMMARY:Austrian ELT Workshop 2026
+LOCATION:Klosterneuburg\, Austria
+URL:https://elt-austria-2026.pages.ist.ac.at/
+DESCRIPTION:CADC meeting #10003\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10003\nMeeting website: https://elt-austria-2026.pages.ist
+ .ac.at/
+X-CADC-MEETING-NUMBER:10003
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10002@cadc2ical
+DTSTAMP:20260515T175139Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261024
+SUMMARY:INTEGRAL Legacy Conference 2026
+LOCATION:Paris\, France
+URL:https://integral2026.sciencesconf.org
+DESCRIPTION:CADC meeting #10002\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10002\nMeeting website: https://integral2026.sciencesconf.
+ org
+X-CADC-MEETING-NUMBER:10002
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9986@cadc2ical
+DTSTAMP:20260418T155958Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261031
+SUMMARY:LAPIS 2026: Local volume cosmology: constraints on dark matter pr
+ operties in the era of GAIA\, LSST\, and S4 probes.
+LOCATION:FCAG de la Universidad Nacional de La Plata \, La Plata\, Argent
+ ina.
+URL:https://congresos.unlp.edu.ar/xiilapis2026/
+DESCRIPTION:CADC meeting #9986\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9986\nMeeting website: https://congresos.unlp.edu.ar/xiilap
+ is2026/
+X-CADC-MEETING-NUMBER:9986
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9945@cadc2ical
+DTSTAMP:20260423T013845Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261024
+SUMMARY:SPARCS XIV: The SKAO Awakens (SKA Pathfinder and Radio Continuum 
+ Surveys conference)
+LOCATION:Seoul\, South Korea
+URL:https://ska.kasi.re.kr/meetings/oct-2026-sparcs-xiv
+DESCRIPTION:CADC meeting #9945\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9945\nMeeting website: https://ska.kasi.re.kr/meetings/oct-
+ 2026-sparcs-xiv
+X-CADC-MEETING-NUMBER:9945
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9136@cadc2ical
+DTSTAMP:20251104T165314Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261023
+SUMMARY:The 1st International Online Conference on Symmetry - Recent Adva
+ nces in Mathematics and Physics
+LOCATION:Online
+URL:https://sciforum.net/event/IOCSYM2026
+DESCRIPTION:CADC meeting #9136\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9136\nMeeting website: https://sciforum.net/event/IOCSYM202
+ 6
+X-CADC-MEETING-NUMBER:9136
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10036@cadc2ical
+DTSTAMP:20260715T182417Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261026
+SUMMARY:ASI Symposium 008: The Dynamic Radio Sky
+LOCATION:IIT Kanpur\, UP\, India
+URL:https://iitk.ac.in/space/DynamicRadioSky/
+DESCRIPTION:CADC meeting #10036\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10036\nMeeting website: https://iitk.ac.in/space/DynamicRa
+ dioSky/
+X-CADC-MEETING-NUMBER:10036
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10035@cadc2ical
+DTSTAMP:20260715T182238Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261030
+SUMMARY:Probing the Circumstellar and Interstellar Medium with Multi-Wave
+ length Observations and Transients
+LOCATION:Tokyo Waseda University
+URL:https://denisburgarella-flpou.wordpress.com/18-2/
+DESCRIPTION:CADC meeting #10035\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10035\nMeeting website: https://denisburgarella-flpou.word
+ press.com/18-2/
+X-CADC-MEETING-NUMBER:10035
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9951@cadc2ical
+DTSTAMP:20260225T161657Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261029
+SUMMARY:YAGN26 - Young Astronomers on Galactic Nuclei
+LOCATION:Universidad de Sevilla\, Spain
+URL:https://eventos.us.es/go/yagn26
+DESCRIPTION:CADC meeting #9951\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9951\nMeeting website: https://eventos.us.es/go/yagn26
+X-CADC-MEETING-NUMBER:9951
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10040@cadc2ical
+DTSTAMP:20260719T013646Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261031
+SUMMARY:The 8th International Conference on Particle Physics and Astrophy
+ sics (ICPPA-2026)
+LOCATION:Sevastopol Hotel Complex\, 1A Bolshaya Yushunskaya Street\, Mosc
+ ow\, Russia
+URL:https://indico.particle.mephi.ru/e/ICPPA2026
+DESCRIPTION:CADC meeting #10040\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10040\nMeeting website: https://indico.particle.mephi.ru/e
+ /ICPPA2026
+X-CADC-MEETING-NUMBER:10040
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10015@cadc2ical
+DTSTAMP:20260603T004847Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261108
+SUMMARY:12th KIAS Workshop on Cosmology and Structure Formation
+LOCATION:Korea Institute for Advanced Study (KIAS)\, Seoul\, Republic of 
+ Korea
+URL:https://symposia.kias.re.kr/cosmology2026
+DESCRIPTION:CADC meeting #10015\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10015\nMeeting website: https://symposia.kias.re.kr/cosmol
+ ogy2026
+X-CADC-MEETING-NUMBER:10015
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9095@cadc2ical
+DTSTAMP:20250821T151615Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261107
+SUMMARY:Bridging horizons: Harnessing ESO’s current facilities for the 
+ dawn of exoplanet population studies
+LOCATION:ESO Garching\, ESO Santiago\, Observatoire de la Côte d'Azur Ni
+ ce\, Lund University
+URL:https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/9095
+DESCRIPTION:CADC meeting #9095\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9095
+X-CADC-MEETING-NUMBER:9095
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10039@cadc2ical
+DTSTAMP:20260831T155144Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261107
+SUMMARY:GrandMagnet 2026: Decoding the Magnetized Dusty Universe
+LOCATION:Jeju Island\, Republic of Korea
+URL:https://www.grandmagnet.org/grandmagnet2026
+DESCRIPTION:CADC meeting #10039\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10039\nMeeting website: https://www.grandmagnet.org/grandm
+ agnet2026
+X-CADC-MEETING-NUMBER:10039
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10067@cadc2ical
+DTSTAMP:20260831T154815Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261107
+SUMMARY:Innovative Research and Techniques in Astronomy Communication
+LOCATION:Tokyo (and online)
+URL:https://iau-oao.nao.ac.jp/iaus409/
+DESCRIPTION:CADC meeting #10067\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10067\nMeeting website: https://iau-oao.nao.ac.jp/iaus409/
+X-CADC-MEETING-NUMBER:10067
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10018@cadc2ical
+DTSTAMP:20260608T160052Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261107
+SUMMARY:Simulations of Galaxy Evolution: Advancements\, Revolutions and S
+ truggles (Simulations GEARS)
+LOCATION:Kashiwanoha\, Tokyo\, Japan
+URL:https://indico.ipmu.jp/event/526/overview
+DESCRIPTION:CADC meeting #10018\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10018\nMeeting website: https://indico.ipmu.jp/event/526/o
+ verview
+X-CADC-MEETING-NUMBER:10018
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10001@cadc2ical
+DTSTAMP:20260515T175348Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261107
+SUMMARY:Stars On the Run III
+LOCATION:Yanqi Lake Campus of UCAS\, Beijing
+URL:https://conf.koushare.com/conf/StarsOntheRun/
+DESCRIPTION:CADC meeting #10001\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10001\nMeeting website: https://conf.koushare.com/conf/Sta
+ rsOntheRun/
+X-CADC-MEETING-NUMBER:10001
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10042@cadc2ical
+DTSTAMP:20260730T015046Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261106
+SUMMARY:The Schmidt Observatory System Science Symposium
+LOCATION:Florence\, Italy
+URL:https://symposium.schmidtobservatorysystem.org/
+DESCRIPTION:CADC meeting #10042\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10042\nMeeting website: https://symposium.schmidtobservato
+ rysystem.org/
+X-CADC-MEETING-NUMBER:10042
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9942@cadc2ical
+DTSTAMP:20260407T170608Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261114
+SUMMARY:Illuminating the Cosmos: Chemical Elements in Stars\, Planets\, N
+ ebulae\, and Transient Extra-galactic Events
+LOCATION:Max Planck Institute for Astronomy\, Heidelberg
+URL:https://indico.nbi.ku.dk/e/RTII
+DESCRIPTION:CADC meeting #9942\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9942\nMeeting website: https://indico.nbi.ku.dk/e/RTII
+X-CADC-MEETING-NUMBER:9942
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9914@cadc2ical
+DTSTAMP:20260121T160703Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261114
+SUMMARY:Missing Links in Planet Formation: From Embedded Disks to Planets
+LOCATION:ASIAA\, Taipei\, Taiwan
+URL:https://events.asiaa.sinica.edu.tw/workshop/20261109/
+DESCRIPTION:CADC meeting #9914\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9914\nMeeting website: https://events.asiaa.sinica.edu.tw/w
+ orkshop/20261109/
+X-CADC-MEETING-NUMBER:9914
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9924@cadc2ical
+DTSTAMP:20260706T143101Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261114
+SUMMARY:Workshop : Waves in astrophysical fluids
+LOCATION:Institute of Science and Technology\, Austria
+URL:https://waf-2026.ist.ac.at/
+DESCRIPTION:CADC meeting #9924\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9924\nMeeting website: https://waf-2026.ist.ac.at/
+X-CADC-MEETING-NUMBER:9924
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10004@cadc2ical
+DTSTAMP:20260616T154753Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261114
+SUMMARY:ngVLA International Science Conference 2026
+LOCATION:Sendai SME Activation Center\, Japan
+URL:https://ngvla.nao.ac.jp/ngVLA_Sendai/
+DESCRIPTION:CADC meeting #10004\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10004\nMeeting website: https://ngvla.nao.ac.jp/ngVLA_Send
+ ai/
+X-CADC-MEETING-NUMBER:10004
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10046@cadc2ical
+DTSTAMP:20260802T165206Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261120
+SUMMARY:16th Southeast Asia Astronomy Network Meeting 2026
+LOCATION:Kuala Lumpur\, Malaysia
+URL:https://umevent.um.edu.my/SEAAN2026
+DESCRIPTION:CADC meeting #10046\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10046\nMeeting website: https://umevent.um.edu.my/SEAAN202
+ 6
+X-CADC-MEETING-NUMBER:10046
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10034@cadc2ical
+DTSTAMP:20260713T145731Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261119
+SUMMARY:Connecting the scales: APEX Synergies with ALMA and Beyond
+LOCATION:Departamento de Astronomía\, Cerro Calán\, Santiago\, Chile
+URL:https://indico.mpifr-bonn.mpg.de/e/apexchile2026
+DESCRIPTION:CADC meeting #10034\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10034\nMeeting website: https://indico.mpifr-bonn.mpg.de/e
+ /apexchile2026
+X-CADC-MEETING-NUMBER:10034
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9991@cadc2ical
+DTSTAMP:20260423T014602Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261121
+SUMMARY:Galaxy nuclei – Diversity\, Dynamics\, and Hidden Mass in Galac
+ tic Centers
+LOCATION:ESO Santiago\, Chile
+URL:https://www.eso.org/sci/meetings/2026/NUCLEI_2026.html
+DESCRIPTION:CADC meeting #9991\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9991\nMeeting website: https://www.eso.org/sci/meetings/202
+ 6/NUCLEI_2026.html
+X-CADC-MEETING-NUMBER:9991
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10021@cadc2ical
+DTSTAMP:20260610T175509Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261119
+SUMMARY:Rocky Worlds DDT Workshop Data Challenge Results & Rocky Worlds D
+ DT Science
+LOCATION:Space Telescope Science Institute in Baltimore\, Maryland\, USA
+URL:https://www.stsci.edu/contents/events/stsci/2026/november/rocky-world
+ s-ddt-workshop
+DESCRIPTION:CADC meeting #10021\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10021\nMeeting website: https://www.stsci.edu/contents/eve
+ nts/stsci/2026/november/rocky-worlds-ddt-workshop
+X-CADC-MEETING-NUMBER:10021
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9927@cadc2ical
+DTSTAMP:20260225T162222Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261121
+SUMMARY:The Future of PDR Modelling - Current Challenges and Next Steps
+LOCATION:Leiden\, Netherlands
+URL:https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/9927
+DESCRIPTION:CADC meeting #9927\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9927
+X-CADC-MEETING-NUMBER:9927
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10038@cadc2ical
+DTSTAMP:20260715T182137Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261120
+SUMMARY:IAU ECRWG Conference — Synergies between Observational and Theo
+ retical Astronomy: Results\, Challenges and Future Prospects
+LOCATION:Virtual
+URL:https://sirrah.troja.mff.cuni.cz/~merc/iau_ecrwg_conference.html
+DESCRIPTION:CADC meeting #10038\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10038\nMeeting website: https://sirrah.troja.mff.cuni.cz/~
+ merc/iau_ecrwg_conference.html
+X-CADC-MEETING-NUMBER:10038
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9118@cadc2ical
+DTSTAMP:20251015T230304Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261128
+SUMMARY:IAU Symposium 411: Star Clusters as Guides to Galaxies: Synergies
+  and New Developments from Space and Ground-Based Surveys
+LOCATION:San Carlos de Bariloche\, Argentina
+URL:https://iaus411.fcaglp.unlp.edu.ar/
+DESCRIPTION:CADC meeting #9118\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9118\nMeeting website: https://iaus411.fcaglp.unlp.edu.ar/
+X-CADC-MEETING-NUMBER:9118
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10068@cadc2ical
+DTSTAMP:20260831T155237Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261205
+SUMMARY:RESCEU-NBI Workshop on Gravitational-Wave Sources\, Tokyo\, Japan
+LOCATION:Tokyo\, Japan
+URL:https://indico3.cns.s.u-tokyo.ac.jp/event/391/overview
+DESCRIPTION:CADC meeting #10068\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10068\nMeeting website: https://indico3.cns.s.u-tokyo.ac.j
+ p/event/391/overview
+X-CADC-MEETING-NUMBER:10068
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9984@cadc2ical
+DTSTAMP:20260705T183626Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261205
+SUMMARY:HWO2026 Conference: Where cutting-edge science shapes tomorrow's 
+ technology. ** August 28th\, new abstract submission deadline for talks*
+ *
+LOCATION:France\, near Paris
+URL:https://hwo2026.sciencesconf.org/
+DESCRIPTION:CADC meeting #9984\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9984\nMeeting website: https://hwo2026.sciencesconf.org/
+X-CADC-MEETING-NUMBER:9984
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9894@cadc2ical
+DTSTAMP:20251231T212528Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261205
+SUMMARY:IAUS412: Hub-Filament Structures in Star Formation
+LOCATION:Mysuru (previously written as Mysore)\, India
+URL:https://aries.res.in/iaus412-hfs2026/index.html
+DESCRIPTION:CADC meeting #9894\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9894\nMeeting website: https://aries.res.in/iaus412-hfs2026
+ /index.html
+X-CADC-MEETING-NUMBER:9894
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9923@cadc2ical
+DTSTAMP:20260130T152956Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261205
+SUMMARY:IR 2026: Showcasing Science and Synergies in Thermal Infrared Ast
+ ronomy
+LOCATION:Santiago\, CL
+URL:https://www.eso.org/sci/meetings/2026/IR_2026.html
+DESCRIPTION:CADC meeting #9923\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9923\nMeeting website: https://www.eso.org/sci/meetings/202
+ 6/IR_2026.html
+X-CADC-MEETING-NUMBER:9923
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10074@cadc2ical
+DTSTAMP:20260907T225454Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261204
+SUMMARY:The ARC Of the Universe
+LOCATION:Acre (Akko)\, Israel
+URL:https://sites.google.com/view/thearcoftheuniverse/
+DESCRIPTION:CADC meeting #10074\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10074\nMeeting website: https://sites.google.com/view/thea
+ rcoftheuniverse/
+X-CADC-MEETING-NUMBER:10074
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9151@cadc2ical
+DTSTAMP:20260616T154642Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261205
+SUMMARY:XVIII Latin-American Regional IAU Meeting
+LOCATION:Cancun\, Mexico
+URL:https://sites.google.com/astro.unam.mx/larim2026/
+DESCRIPTION:CADC meeting #9151\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9151\nMeeting website: https://sites.google.com/astro.unam.
+ mx/larim2026/
+X-CADC-MEETING-NUMBER:9151
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10058@cadc2ical
+DTSTAMP:20260814T185800Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261211
+SUMMARY:12th Annual Science at Low Frequencies (SALF XII) conference - 20
+ 26
+LOCATION:Tempe\, Arizona\, USA
+URL:https://salfconference.org
+DESCRIPTION:CADC meeting #10058\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10058\nMeeting website: https://salfconference.org
+X-CADC-MEETING-NUMBER:10058
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9897@cadc2ical
+DTSTAMP:20260630T233100Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261212
+SUMMARY:RR Lyrae and Cepheid Stars 2026: The Rubin Era
+LOCATION:La Serena\, Chile
+URL:https://noirlab.edu/science/events/websites/rrl-cep-2026
+DESCRIPTION:CADC meeting #9897\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9897\nMeeting website: https://noirlab.edu/science/events/w
+ ebsites/rrl-cep-2026
+X-CADC-MEETING-NUMBER:9897
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10009@cadc2ical
+DTSTAMP:20260521T171032Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261212
+SUMMARY:Shanghai International Symposium on Relativistic Astrophysics
+LOCATION:Shanghai\, China
+URL:https://indico-tdli.sjtu.edu.cn/event/5006/
+DESCRIPTION:CADC meeting #10009\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10009\nMeeting website: https://indico-tdli.sjtu.edu.cn/ev
+ ent/5006/
+X-CADC-MEETING-NUMBER:10009
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10064@cadc2ical
+DTSTAMP:20260907T224617Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261211
+SUMMARY:Toward Sub-micro-arcsecond Astrometry: Scientific Opportunities a
+ nd Measurement Pathways
+LOCATION:Shanghai\, China
+URL:https://conf.koushare.com/conf/casfis-smastro2026/
+DESCRIPTION:CADC meeting #10064\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10064\nMeeting website: https://conf.koushare.com/conf/cas
+ fis-smastro2026/
+X-CADC-MEETING-NUMBER:10064
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10029@cadc2ical
+DTSTAMP:20260706T190919Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261219
+SUMMARY:COSMOGOLD IAP 2026
+LOCATION:IAP\, Paris\, France
+URL:https://indico.iap.fr/e/cosmogold2026
+DESCRIPTION:CADC meeting #10029\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10029\nMeeting website: https://indico.iap.fr/e/cosmogold2
+ 026
+X-CADC-MEETING-NUMBER:10029
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10073@cadc2ical
+DTSTAMP:20260907T225541Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261218
+SUMMARY:Rogue Worlds 3
+LOCATION:Cambridge\, Massachusetts
+URL:https://rogueworldsconference.github.io
+DESCRIPTION:CADC meeting #10073\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10073\nMeeting website: https://rogueworldsconference.gith
+ ub.io
+X-CADC-MEETING-NUMBER:10073
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9149@cadc2ical
+DTSTAMP:20251120T212756Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270312
+SUMMARY:Cosmic Rays in Astrophysical Systems: From the Sun to Galaxies an
+ d Beyond
+LOCATION:Kavli Institute for Theoretical Physics
+URL:https://www.kitp.ucsb.edu/activities/cosmicrays27
+DESCRIPTION:CADC meeting #9149\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9149\nMeeting website: https://www.kitp.ucsb.edu/activities
+ /cosmicrays27
+X-CADC-MEETING-NUMBER:9149
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9994@cadc2ical
+DTSTAMP:20260430T154645Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270109
+SUMMARY:Cosmology and galaxy astrophysics with simulations and machine le
+ arning 2027
+LOCATION:Flatiron Institute's Center for Computational Astrophysics
+URL:https://www.simonsfoundation.org/event/cosmology-and-galaxy-astrophys
+ ics-with-simulations-and-machine-learning-2027/
+DESCRIPTION:CADC meeting #9994\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9994\nMeeting website: https://www.simonsfoundation.org/eve
+ nt/cosmology-and-galaxy-astrophysics-with-simulations-and-machine-learni
+ ng-2027/
+X-CADC-MEETING-NUMBER:9994
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10057@cadc2ical
+DTSTAMP:20260814T190240Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270109
+SUMMARY:eSPACE 2027: International Conference on Astrophysics\, Space Sci
+ ence and Converging Disciplines
+LOCATION:Ibarra\, Ecuador
+URL:https://www.e-space2027.com
+DESCRIPTION:CADC meeting #10057\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10057\nMeeting website: https://www.e-space2027.com
+X-CADC-MEETING-NUMBER:10057
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10005@cadc2ical
+DTSTAMP:20260515T174905Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270116
+SUMMARY:From Gaia to GaiaNIR - Science from Precision Astrometry Across t
+ he Universe and Beyond the Extinction Barrier
+LOCATION:Eugenides Foundation\, Athens\, Greece
+URL:https://conferences.uoa.gr/event/126/
+DESCRIPTION:CADC meeting #10005\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10005\nMeeting website: https://conferences.uoa.gr/event/1
+ 26/
+X-CADC-MEETING-NUMBER:10005
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10072@cadc2ical
+DTSTAMP:20260907T225253Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270123
+SUMMARY:Fundamental Physics from the Primordial Era with Galaxy Surveys (
+ Aspen Winter Conference 2027)
+LOCATION:Aspen Center for Physics700 W Gillespie StAspen\, CO 81611\, USA
+URL:https://aspenphys.org/winter-conferences/#event6581
+DESCRIPTION:CADC meeting #10072\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10072\nMeeting website: https://aspenphys.org/winter-confe
+ rences/#event6581
+X-CADC-MEETING-NUMBER:10072
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10026@cadc2ical
+DTSTAMP:20260625T185831Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270123
+SUMMARY:AGN Jets from Gamsberg to the Multi-Messenger Frontier
+LOCATION:Windhoek\, Namibia
+URL:https://indico.global/event/18038/overview
+DESCRIPTION:CADC meeting #10026\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10026\nMeeting website: https://indico.global/event/18038/
+ overview
+X-CADC-MEETING-NUMBER:10026
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10066@cadc2ical
+DTSTAMP:20260911T194437Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270130
+SUMMARY:Saas Fee Advanced Doctoral Workshop 2027: From Astrophysics to Pa
+ rticle Physics: Cold Dark Matter and Beyond.
+LOCATION:Saas Fee\, Switzerland
+URL:https://saasfee2027.ch/
+DESCRIPTION:CADC meeting #10066\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10066\nMeeting website: https://saasfee2027.ch/
+X-CADC-MEETING-NUMBER:10066
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10065@cadc2ical
+DTSTAMP:20260907T224704Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270206
+SUMMARY:Forging Light: Interpreting Observations of High-Redshift Galaxie
+ s with Theoretical Models and Simulations
+LOCATION:Grindelwald\, Switzerland
+URL:https://www.forging-light.com
+DESCRIPTION:CADC meeting #10065\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10065\nMeeting website: https://www.forging-light.com
+X-CADC-MEETING-NUMBER:10065
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10010@cadc2ical
+DTSTAMP:20260818T231636Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270214
+SUMMARY:Stellar Ages as Cosmic Clocks: From the Milky Way to the Universe
+LOCATION:Benasque (Spain)
+URL:https://benasque.org/2027stellar/
+DESCRIPTION:CADC meeting #10010\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10010\nMeeting website: https://benasque.org/2027stellar/
+X-CADC-MEETING-NUMBER:10010
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10011@cadc2ical
+DTSTAMP:20260625T185624Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270213
+SUMMARY:Break-Game-Set: Settling the long-standing debate on the disk evo
+ lution mechanisms and their impact on planet formation
+LOCATION:Sexten\, Sexten Center for Astrophysics
+URL:https://tinyurl.com/bgss2027
+DESCRIPTION:CADC meeting #10011\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10011\nMeeting website: https://tinyurl.com/bgss2027
+X-CADC-MEETING-NUMBER:10011
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9996@cadc2ical
+DTSTAMP:20260504T182538Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270220
+SUMMARY:Magnetism in Tassie: Magnetic fields in the diffuse and nearby un
+ iverse with Faraday tomography
+LOCATION:Hobart\, Australia
+URL:https://gmims.ok.ubc.ca/magnetism-tassie/
+DESCRIPTION:CADC meeting #9996\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9996\nMeeting website: https://gmims.ok.ubc.ca/magnetism-ta
+ ssie/
+X-CADC-MEETING-NUMBER:9996
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9896@cadc2ical
+DTSTAMP:20260616T154858Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270227
+SUMMARY:ALMA at 15 years: Science\, Synergies\, and the Road Ahead
+LOCATION:Taipei\, Taiwan
+URL:https://2027alma.org/
+DESCRIPTION:CADC meeting #9896\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9896\nMeeting website: https://2027alma.org/
+X-CADC-MEETING-NUMBER:9896
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9115@cadc2ical
+DTSTAMP:20260831T154511Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270227
+SUMMARY:Supernovae near and far\, celebrating the achievements of Brian S
+ chmidt and the 40th anniversary of SN1987A
+LOCATION:Canberra\, Australia
+URL:https://www.mso.anu.edu.au/supernovae-near-and-far/
+DESCRIPTION:CADC meeting #9115\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9115\nMeeting website: https://www.mso.anu.edu.au/supernova
+ e-near-and-far/
+X-CADC-MEETING-NUMBER:9115
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10048@cadc2ical
+DTSTAMP:20260805T180005Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270306
+SUMMARY:Simulation-Driven Cosmology and Large-Scale Structure: Emulators\
+ , Fields\, and Galaxy Catalogs
+LOCATION:Shanghai\, China
+URL:https://web.gravity.sjtu.edu.cn/event/12/
+DESCRIPTION:CADC meeting #10048\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10048\nMeeting website: https://web.gravity.sjtu.edu.cn/ev
+ ent/12/
+X-CADC-MEETING-NUMBER:10048
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9077@cadc2ical
+DTSTAMP:20250729T204556Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270423
+SUMMARY:The Dynamic Lives and Deaths of Massive Stars
+LOCATION:Kavli Institute for Theoretical Physics\, Santa Barbara
+URL:https://www.kitp.ucsb.edu/activities/massivestars27
+DESCRIPTION:CADC meeting #9077\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9077\nMeeting website: https://www.kitp.ucsb.edu/activities
+ /massivestars27
+X-CADC-MEETING-NUMBER:9077
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10047@cadc2ical
+DTSTAMP:20260802T165600Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270313
+SUMMARY:Unveiling the Universe in the JWST Era - A COSPAR Capacity Buildi
+ ng Workshop
+LOCATION:Universidad Industrial de Santander - Bucaramanga\, Colombia
+URL:https://colombianjwstworks.wixsite.com/macondo-cospar
+DESCRIPTION:CADC meeting #10047\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10047\nMeeting website: https://colombianjwstworks.wixsite
+ .com/macondo-cospar
+X-CADC-MEETING-NUMBER:10047
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10045@cadc2ical
+DTSTAMP:20260802T165734Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270313
+SUMMARY:Cosmological Signals from the Dark Ages to the Present
+LOCATION:Aspen Center for Physics
+URL:http://wise-obs.tau.ac.il/~barkana/darkages.html
+DESCRIPTION:CADC meeting #10045\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10045\nMeeting website: http://wise-obs.tau.ac.il/~barkana
+ /darkages.html
+X-CADC-MEETING-NUMBER:10045
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10061@cadc2ical
+DTSTAMP:20260818T231835Z
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270313
+SUMMARY:The Super Conference: Super-Eddington Accretion onto Super-Massiv
+ e Black Holes
+LOCATION:Sexten Center for Astrophysics
+URL:https://www.sexten-cfa.eu/event/scon27/
+DESCRIPTION:CADC meeting #10061\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10061\nMeeting website: https://www.sexten-cfa.eu/event/sc
+ on27/
+X-CADC-MEETING-NUMBER:10061
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10075@cadc2ical
+DTSTAMP:20260907T225341Z
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270311
+SUMMARY:The Threshold of Galaxy Formation: A Tinsley Workshop
+LOCATION:Yale University West Campus\, New Haven\, Connecticut\, USA
+URL:https://tinsleyworkshop.yale.edu/
+DESCRIPTION:CADC meeting #10075\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10075\nMeeting website: https://tinsleyworkshop.yale.edu/
+X-CADC-MEETING-NUMBER:10075
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10076@cadc2ical
+DTSTAMP:20260907T224833Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270320
+SUMMARY:RiekeFest: The Growth of Infrared Astronomy and Active Galaxies f
+ rom the Galactic Center to the Edge of the Universe
+LOCATION:Tucson\, Arizona\, USA
+URL:https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10076
+DESCRIPTION:CADC meeting #10076\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10076
+X-CADC-MEETING-NUMBER:10076
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10050@cadc2ical
+DTSTAMP:20260810T151200Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270320
+SUMMARY:30 Years of STIS and the Future of UV Astronomy
+LOCATION:Space Telescope Science Institute
+URL:https://www.stsci.edu/events/stis30workshop
+DESCRIPTION:CADC meeting #10050\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10050\nMeeting website: https://www.stsci.edu/events/stis3
+ 0workshop
+X-CADC-MEETING-NUMBER:10050
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10051@cadc2ical
+DTSTAMP:20260814T190018Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270327
+SUMMARY:Lighting up the Dark — Understanding Dark Matter from Particles
+  to Galaxies
+LOCATION:Sport & Kurhotel at Bad Moos\, Sexten\, Italy
+URL:https://www.sexten-cfa.eu/event/lud27/
+DESCRIPTION:CADC meeting #10051\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10051\nMeeting website: https://www.sexten-cfa.eu/event/lu
+ d27/
+X-CADC-MEETING-NUMBER:10051
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10008@cadc2ical
+DTSTAMP:20260521T170511Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270410
+SUMMARY:A new window into the innermost regions of accreting massive blac
+ k holes
+LOCATION:Ascona\, Switzerland
+URL:https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10008
+DESCRIPTION:CADC meeting #10008\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10008
+X-CADC-MEETING-NUMBER:10008
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9952@cadc2ical
+DTSTAMP:20260225T161511Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270417
+SUMMARY:Low-Metallicity ISM and Star Formation at All Redshifts
+LOCATION:Centre Paul Langevin\, Aussois\, France
+URL:https://lowz-ism-sf27.sciencesconf.org
+DESCRIPTION:CADC meeting #9952\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9952\nMeeting website: https://lowz-ism-sf27.sciencesconf.o
+ rg
+X-CADC-MEETING-NUMBER:9952
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10020@cadc2ical
+DTSTAMP:20260831T155038Z
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270417
+SUMMARY:Deepdish-Baguette: Stars\, Black Holes\, and Feedback From Cosmic
+  Dawn to Cosmic Noon
+LOCATION:Paris\, France
+URL:https://deepdish-baguette.com
+DESCRIPTION:CADC meeting #10020\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10020\nMeeting website: https://deepdish-baguette.com
+X-CADC-MEETING-NUMBER:10020
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10055@cadc2ical
+DTSTAMP:20260810T150609Z
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270424
+SUMMARY:4th NewAthena conference
+LOCATION:Prague (Czech Republic)
+URL:https://newathena.avcr.cz/
+DESCRIPTION:CADC meeting #10055\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10055\nMeeting website: https://newathena.avcr.cz/
+X-CADC-MEETING-NUMBER:10055
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10022@cadc2ical
+DTSTAMP:20260614T200945Z
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270424
+SUMMARY:LSST@Asia 2027
+LOCATION:Seoul\, South Korea
+URL:https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10022
+DESCRIPTION:CADC meeting #10022\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10022
+X-CADC-MEETING-NUMBER:10022
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10019@cadc2ical
+DTSTAMP:20260727T152404Z
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270501
+SUMMARY:Massive Black Holes in the First Billion Years II
+LOCATION:Sunset Beach Hotel\, Benalmadena\, Spain
+URL:https://www.ucc.ie/en/astro/mbhconference2/
+DESCRIPTION:CADC meeting #10019\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10019\nMeeting website: https://www.ucc.ie/en/astro/mbhcon
+ ference2/
+X-CADC-MEETING-NUMBER:10019
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10028@cadc2ical
+DTSTAMP:20260625T190101Z
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270529
+SUMMARY:The Galactic Journey of the Solar System: Astronomical\, Geologic
+ al\, and Paleo-Climatological Perspectives
+LOCATION:Excellence Cluster ORIGINS\, MIAPbP\, Garching\, Germany
+URL:https://www.munich-iapbp.de/activities/activities-2027/solar-system
+DESCRIPTION:CADC meeting #10028\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10028\nMeeting website: https://www.munich-iapbp.de/activi
+ ties/activities-2027/solar-system
+X-CADC-MEETING-NUMBER:10028
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9142@cadc2ical
+DTSTAMP:20251119T211814Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270516
+SUMMARY:40 Years of SN1987A: Understanding Supernova Diversity
+LOCATION:Guilin\, Guangxi Province\, China
+URL:https://sn1987a.casconf.cn/
+DESCRIPTION:CADC meeting #9142\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9142\nMeeting website: https://sn1987a.casconf.cn/
+X-CADC-MEETING-NUMBER:9142
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10016@cadc2ical
+DTSTAMP:20260605T164246Z
+DTSTART;VALUE=DATE:20270510
+DTEND;VALUE=DATE:20270515
+SUMMARY:Connecting the Little Red Dots
+LOCATION:Schloss Ringberg\, Germany
+URL:https://connect-the-dots.www3.mpia.de/
+DESCRIPTION:CADC meeting #10016\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10016\nMeeting website: https://connect-the-dots.www3.mpia
+ .de/
+X-CADC-MEETING-NUMBER:10016
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9988@cadc2ical
+DTSTAMP:20260418T155837Z
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270529
+SUMMARY:Solvay-Torino XV Workshop on AGB Stars
+LOCATION:Brussels (Belgium)
+URL:https://fys.kuleuven.be/ster/events/conferences/2027/solvay-torino-wo
+ rkshop
+DESCRIPTION:CADC meeting #9988\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9988\nMeeting website: https://fys.kuleuven.be/ster/events/
+ conferences/2027/solvay-torino-workshop
+X-CADC-MEETING-NUMBER:9988
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10031@cadc2ical
+DTSTAMP:20260705T183957Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270605
+SUMMARY:Star formation in the Aegean: From Clouds to Protostars
+LOCATION:Spetses Island\, Greece
+URL:https://derekfest.wordpress.com
+DESCRIPTION:CADC meeting #10031\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10031\nMeeting website: https://derekfest.wordpress.com
+X-CADC-MEETING-NUMBER:10031
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10043@cadc2ical
+DTSTAMP:20260730T015125Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270605
+SUMMARY:XRISM 2027: 2nd International Conference
+LOCATION:Detroit\, MI\, USA
+URL:https://sites.lsa.umich.edu/xrism2027/
+DESCRIPTION:CADC meeting #10043\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10043\nMeeting website: https://sites.lsa.umich.edu/xrism2
+ 027/
+X-CADC-MEETING-NUMBER:10043
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9926@cadc2ical
+DTSTAMP:20260207T192739Z
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270619
+SUMMARY:The 7th Workshop on Extremely Precise Radial Velocities
+LOCATION:Université de Montréal\, Montréal\, QC\, Canada
+URL:https://eprv7.github.io
+DESCRIPTION:CADC meeting #9926\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9926\nMeeting website: https://eprv7.github.io
+X-CADC-MEETING-NUMBER:9926
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10054@cadc2ical
+DTSTAMP:20260810T155956Z
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270618
+SUMMARY:SKA Regional Centres: Preparing for Scientific Discovery
+LOCATION:Évora\, Portugal
+URL:https://indico.hpc.uevora.pt/event/189/
+DESCRIPTION:CADC meeting #10054\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10054\nMeeting website: https://indico.hpc.uevora.pt/event
+ /189/
+X-CADC-MEETING-NUMBER:10054
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10030@cadc2ical
+DTSTAMP:20260713T145559Z
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270626
+SUMMARY:EAS 2027
+LOCATION:Vienna\, Austria
+URL:https://eas.unige.ch/EAS_meeting/
+DESCRIPTION:CADC meeting #10030\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10030\nMeeting website: https://eas.unige.ch/EAS_meeting/
+X-CADC-MEETING-NUMBER:10030
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10049@cadc2ical
+DTSTAMP:20260806T144330Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270703
+SUMMARY:African Astronomical Society (AfAS) Conference 2027
+LOCATION:Makhanda\, South Africa
+URL:https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10049
+DESCRIPTION:CADC meeting #10049\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10049
+X-CADC-MEETING-NUMBER:10049
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10037@cadc2ical
+DTSTAMP:20260714T174523Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270703
+SUMMARY:60 Years of Pulsars
+LOCATION:LVR-Landesmuseum Bonn\, Germany
+URL:https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10037
+DESCRIPTION:CADC meeting #10037\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10037
+X-CADC-MEETING-NUMBER:10037
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9972@cadc2ical
+DTSTAMP:20260318T142054Z
+DTSTART;VALUE=DATE:20270712
+DTEND;VALUE=DATE:20270717
+SUMMARY:ImBaSE2027: The Impact of Binaries on Stellar Evolution
+LOCATION:Tenerife\, Spain
+URL:https://meetings.iac.es/imbase2027/
+DESCRIPTION:CADC meeting #9972\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9972\nMeeting website: https://meetings.iac.es/imbase2027/
+X-CADC-MEETING-NUMBER:9972
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10041@cadc2ical
+DTSTAMP:20260730T014941Z
+DTSTART;VALUE=DATE:20270719
+DTEND;VALUE=DATE:20270724
+SUMMARY:2027 Sagan Summer Workshop - Exoplanet Masses: In the Era of Gaia
+  and Extreme Precision Radial Velocities
+LOCATION:Pasadena\, CA
+URL:https://nexsci.caltech.edu/workshop/2027/
+DESCRIPTION:CADC meeting #10041\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10041\nMeeting website: https://nexsci.caltech.edu/worksho
+ p/2027/
+X-CADC-MEETING-NUMBER:10041
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10060@cadc2ical
+DTSTAMP:20260814T190620Z
+DTSTART;VALUE=DATE:20270726
+DTEND;VALUE=DATE:20270731
+SUMMARY:Probing the cosmos with white dwarf binaries
+LOCATION:Garching near Munich\, Germany
+URL:https://www.eso.org/sci/meetings/2027/whitedwarfbinaries.html
+DESCRIPTION:CADC meeting #10060\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10060\nMeeting website: https://www.eso.org/sci/meetings/2
+ 027/whitedwarfbinaries.html
+X-CADC-MEETING-NUMBER:10060
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10059@cadc2ical
+DTSTAMP:20260814T190124Z
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270807
+SUMMARY:ASC 2027: From the sonata of Kepler and TESS to the symphony of f
+ uture missions
+LOCATION:Cádiz\, Spain
+URL:https://cadiz-meeting2027.ugr.es/
+DESCRIPTION:CADC meeting #10059\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10059\nMeeting website: https://cadiz-meeting2027.ugr.es/
+X-CADC-MEETING-NUMBER:10059
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10024@cadc2ical
+DTSTAMP:20260621T202040Z
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270807
+SUMMARY:Rubin Community Workshop 2027
+LOCATION:Tucson AZ USA
+URL:https://rubinobservatory.org/for-scientists/events-deadlines/events-r
+ cw
+DESCRIPTION:CADC meeting #10024\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10024\nMeeting website: https://rubinobservatory.org/for-s
+ cientists/events-deadlines/events-rcw
+X-CADC-MEETING-NUMBER:10024
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10033@cadc2ical
+DTSTAMP:20260713T145616Z
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270820
+SUMMARY:IAU Symposium 418: Planet Formation in the ALMA\, JWST and ELT Er
+ a
+LOCATION:Rome
+URL:https://iaus418.fisica.unimi.it/
+DESCRIPTION:CADC meeting #10033\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10033\nMeeting website: https://iaus418.fisica.unimi.it/
+X-CADC-MEETING-NUMBER:10033
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9941@cadc2ical
+DTSTAMP:20260217T153906Z
+DTSTART;VALUE=DATE:20270830
+DTEND;VALUE=DATE:20270904
+SUMMARY:Large-scale structure of the Universe: from galaxies to cosmology
+LOCATION:Tartu\, Estonia
+URL:https://excosm2027.ut.ee
+DESCRIPTION:CADC meeting #9941\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9941\nMeeting website: https://excosm2027.ut.ee
+X-CADC-MEETING-NUMBER:9941
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9910@cadc2ical
+DTSTAMP:20260115T210935Z
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270911
+SUMMARY:Potsdam Thinkshop: Clouds over Potsdam
+LOCATION:Leibniz Institute for Astrophysics Potsdam (AIP)
+URL:https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/9910
+DESCRIPTION:CADC meeting #9910\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9910
+X-CADC-MEETING-NUMBER:9910
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10063@cadc2ical
+DTSTAMP:20260831T154539Z
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270911
+SUMMARY:Quasars and AGN: past\, present\, and future
+LOCATION:Institute of Astronomy\, University of Cambridge\, UK
+URL:https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10063
+DESCRIPTION:CADC meeting #10063\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10063
+X-CADC-MEETING-NUMBER:10063
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10044@cadc2ical
+DTSTAMP:20260730T215922Z
+DTSTART;VALUE=DATE:20270912
+DTEND;VALUE=DATE:20270917
+SUMMARY:HWO 2027 Science Meeting
+LOCATION:Pasadena\, CA
+URL:https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10044
+DESCRIPTION:CADC meeting #10044\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10044
+X-CADC-MEETING-NUMBER:10044
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-7355@cadc2ical
+DTSTAMP:20260112T184000Z
+DTSTART;VALUE=DATE:20270913
+DTEND;VALUE=DATE:20270918
+SUMMARY:Active small bodies in the Solar System over a wide range of heli
+ ocentric distances
+LOCATION:Vysoké Tatry\, Slovak Republic
+URL:https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/7355
+DESCRIPTION:CADC meeting #7355\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/7355
+X-CADC-MEETING-NUMBER:7355
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-9987@cadc2ical
+DTSTAMP:20260418T155653Z
+DTSTART;VALUE=DATE:20270920
+DTEND;VALUE=DATE:20270925
+SUMMARY:45th International Workshop on Bayesian Inference and Maximum Ent
+ ropy Methods in Science and Engineering
+LOCATION:Goerlitz\, Germany
+URL:https://indico.dzastro.de/e/maxent-2027
+DESCRIPTION:CADC meeting #9987\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
+ .ca/meetings/9987\nMeeting website: https://indico.dzastro.de/e/maxent-2
+ 027
+X-CADC-MEETING-NUMBER:9987
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10053@cadc2ical
+DTSTAMP:20260810T160226Z
+DTSTART;VALUE=DATE:20270921
+DTEND;VALUE=DATE:20270923
+SUMMARY:Celebrating Georges Lemaître groundbreaking contributions to cos
+ mology and modern science
+LOCATION:Évora\, Portugal
+URL:https://indico.hpc.uevora.pt/event/188/
+DESCRIPTION:CADC meeting #10053\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10053\nMeeting website: https://indico.hpc.uevora.pt/event
+ /188/
+X-CADC-MEETING-NUMBER:10053
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10032@cadc2ical
+DTSTAMP:20260705T184132Z
+DTSTART;VALUE=DATE:20271011
+DTEND;VALUE=DATE:20271016
+SUMMARY:IAU Symposium 414: High-z Galaxies and Black Holes: The JWST/ALMA
+ /GRAVITY Frontier
+LOCATION:Puerto Natales\, Chile
+URL:http://www.iaus414patagonia.cl
+DESCRIPTION:CADC meeting #10032\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10032\nMeeting website: http://www.iaus414patagonia.cl
+X-CADC-MEETING-NUMBER:10032
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10062@cadc2ical
+DTSTAMP:20260818T231714Z
+DTSTART;VALUE=DATE:20271115
+DTEND;VALUE=DATE:20271120
+SUMMARY:International Space Radio Interferometry Conference
+LOCATION:Didcot
+URL:https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10062
+DESCRIPTION:CADC meeting #10062\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10062
+X-CADC-MEETING-NUMBER:10062
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10069@cadc2ical
+DTSTAMP:20260831T155319Z
+DTSTART;VALUE=DATE:20271213
+DTEND;VALUE=DATE:20271218
+SUMMARY:Texas Down Under: 34th Texas Symposium on Relativistic Astrophysi
+ cs
+LOCATION:Melbourne\, Australia
+URL:https://www.ozgrav.org/34th-texas-symposium/
+DESCRIPTION:CADC meeting #10069\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10069\nMeeting website: https://www.ozgrav.org/34th-texas-
+ symposium/
+X-CADC-MEETING-NUMBER:10069
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
