@@ -53,6 +53,12 @@ Environment variables:
 - `CADC_RSS_URLS`: comma-separated RSS URLs to try, in priority order.
 - `CADC_HORIZON_DAYS`: future calendar horizon in days (default: 730).
 
+## Acknowledgment
+
+A huge thank you to the **Canadian Astronomy Data Centre (CADC)** and to everyone who maintains the International Astronomy Meetings list. Their fantastic, long-running work has created an exceptionally useful community resource, making it much easier for astronomers around the world to discover conferences, workshops, schools, and other meetings across the field.
+
+`cadc2ical` exists only because CADC has done the hard and valuable work of collecting, curating, and openly sharing this information with the astronomy community. We are very grateful for this service and for the effort behind it.
+
 ## Source
 
 Live CADC RSS feed used by default:
