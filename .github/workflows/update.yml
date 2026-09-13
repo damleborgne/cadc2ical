@@ -21,7 +21,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -31,7 +31,7 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
       - name: Update calendar
-        run: python cadc2ical.py --output calendar/cadc.ics --state data/meetings.json --no-bootstrap-ics --max-detail-fetches 20
+        run: python cadc2ical.py --output calendar/cadc.ics --state data/meetings.json
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
