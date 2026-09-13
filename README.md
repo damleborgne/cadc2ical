@@ -1,12 +1,12 @@
 # cadc2ical
 
-A small mirror that turns the **CADC International Astronomy Meetings** database into a fresh, subscribable iCalendar (`.ics`) feed.
+A small mirror that turns the **CADC International Astronomy Meetings** RSS feed into a fresh, subscribable iCalendar (`.ics`) feed.
 
-The official CADC iCal feed appears stale, while the meetings database and RSS feed are still active. This project uses the **documented CADC Meetings REST service** as its primary source, with RSS and the public HTML meeting pages as fallbacks.
+The official CADC iCal feed appears stale, while the RSS feed is still live. This project fetches that RSS feed from GitHub Actions, so subscribers do not need direct access to the CADC site or a VPN.
 
 ## Calendar URL
 
-Once this repository is running on GitHub Actions, subscribe to:
+Subscribe to:
 
 ```text
 https://raw.githubusercontent.com/damleborgne/cadc2ical/main/calendar/cadc.ics
@@ -16,14 +16,16 @@ On iPhone/iPad: **Settings → Apps → Calendar → Calendar Accounts → Add A
 
 ## How it works
 
-1. Queries the CADC Meetings REST service (`/meetings?new=…`, `?month=this`, `?month=next`).
-2. Uses the CADC RSS feed as an additional discovery source.
-3. Uses `/meetings/<number>` and, if necessary, the public HTML detail page to fill missing metadata.
-4. Keeps a small `data/meetings.json` state file so meetings discovered on earlier runs are not lost when they disappear from the RSS window.
+1. Fetches the live CADC Astronomy Meetings RSS feed, trying several official CADC hostnames if needed.
+2. Reads the stable CADC meeting number from each RSS `<guid>`.
+3. Parses the RSS description table for the real start/end dates, location, and meeting website.
+4. Keeps `data/meetings.json` as cumulative state, so meetings do not disappear merely because they roll off the RSS window.
 5. Generates stable all-day `VEVENT`s with `UID:cadc-<number>@cadc2ical`.
-6. GitHub Actions refreshes the mirror daily and commits changes automatically.
+6. GitHub Actions refreshes the feed every day at 04:17 UTC and commits changes automatically.
 
-The generated feed keeps meetings from 30 days in the past through two years in the future by default.
+The published calendar includes meetings from 30 days in the past through two years in the future by default. Old state entries are pruned after 90 days.
+
+The generator is fail-safe: if all CADC RSS endpoints are unavailable, or if the feed cannot be parsed into any complete meetings, it exits with an error instead of replacing the calendar with an empty file.
 
 ## Run locally
 
@@ -43,25 +45,23 @@ pytest -q
 Useful options:
 
 ```bash
-python cadc2ical.py --lookback-days 730 --horizon-days 730 --refresh-days 7
+python cadc2ical.py --horizon-days 730 --grace-days 30
 ```
 
 Environment variables:
 
-- `CADC_BASE_URLS`: comma-separated CADC hostnames to try, in priority order.
-- `CADC_LOOKBACK_DAYS`: discovery window for `?new=<days>` (default: 730).
-- `CADC_HORIZON_DAYS`: future calendar horizon (default: 730).
-- `CADC_BOOTSTRAP_ICS`: optional URL of the old CADC iCal feed, used only to discover meeting IDs.
+- `CADC_RSS_URLS`: comma-separated RSS URLs to try, in priority order.
+- `CADC_HORIZON_DAYS`: future calendar horizon in days (default: 730).
 
 ## Source
 
-CADC Meetings service documentation:
+Live CADC RSS feed used by default:
 
 ```text
-https://www1.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/
+https://www1.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/rssFeed
 ```
 
-Public meetings UI:
+Public CADC meetings UI:
 
 ```text
 https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/meetings/
