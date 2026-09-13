@@ -1,0 +1,39 @@
+name: Update CADC calendar
+
+on:
+  schedule:
+    - cron: "17 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-cadc-calendar
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Update calendar
+        run: python cadc2ical.py --output calendar/cadc.ics --state data/meetings.json
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add calendar/cadc.ics data/meetings.json
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Update CADC astronomy meetings"
+            git push
+          fi
