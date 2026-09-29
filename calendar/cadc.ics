@@ -1201,6 +1201,20 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:cadc-10078@cadc2ical
+DTSTAMP:20260928T164528Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270220
+SUMMARY:LISA-focused Workshop in Melbourne
+LOCATION:Melbourne
+URL:https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10078
+DESCRIPTION:CADC meeting #10078\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10078
+X-CADC-MEETING-NUMBER:10078
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:cadc-9996@cadc2ical
 DTSTAMP:20260504T182538Z
 DTSTART;VALUE=DATE:20270215
@@ -1335,6 +1349,25 @@ URL:https://tinsleyworkshop.yale.edu/
 DESCRIPTION:CADC meeting #10075\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
  c.ca/meetings/10075\nMeeting website: https://tinsleyworkshop.yale.edu/
 X-CADC-MEETING-NUMBER:10075
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10077@cadc2ical
+DTSTAMP:20260928T164637Z
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270313
+SUMMARY:Few-body dynamics as a gravitational-wave merger channel: The rol
+ e of binary-single encounters
+LOCATION:RAS\, Geological Society\, Burlington House\, Piccadilly\, W1J 0
+ BQ
+URL:https://ras.ac.uk/events-and-meetings/ras-meetings/few-body-dynamics-
+ gravitational-wave-mergers-channel-role-binary
+DESCRIPTION:CADC meeting #10077\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10077\nMeeting website: https://ras.ac.uk/events-and-meeti
+ ngs/ras-meetings/few-body-dynamics-gravitational-wave-mergers-channel-ro
+ le-binary
+X-CADC-MEETING-NUMBER:10077
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1664,6 +1697,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:cadc-10079@cadc2ical
+DTSTAMP:20260928T164311Z
+DTSTART;VALUE=DATE:20270726
+DTEND;VALUE=DATE:20270731
+SUMMARY:Forming Stars in Cardiff
+LOCATION:Cardiff\, United Kingdom
+URL:https://sites.google.com/view/formingstarsincardiff/home
+DESCRIPTION:CADC meeting #10079\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10079\nMeeting website: https://sites.google.com/view/form
+ ingstarsincardiff/home
+X-CADC-MEETING-NUMBER:10079
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:cadc-10060@cadc2ical
 DTSTAMP:20260814T190620Z
 DTSTART;VALUE=DATE:20270726
@@ -1824,6 +1872,20 @@ DESCRIPTION:CADC meeting #10053\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
  c.ca/meetings/10053\nMeeting website: https://indico.hpc.uevora.pt/event
  /188/
 X-CADC-MEETING-NUMBER:10053
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10080@cadc2ical
+DTSTAMP:20260928T164451Z
+DTSTART;VALUE=DATE:20271003
+DTEND;VALUE=DATE:20271008
+SUMMARY:Astronomical Data Analysis Software & Systems 2027
+LOCATION:Toronto\, Canada
+URL:https://www.adass2027.org/
+DESCRIPTION:CADC meeting #10080\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10080\nMeeting website: https://www.adass2027.org/
+X-CADC-MEETING-NUMBER:10080
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT

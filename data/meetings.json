@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T10:57:11+00:00",
+  "generated_at": "2026-09-29T10:42:53+00:00",
   "meetings": [
     {
       "number": "7355",
@@ -1230,6 +1230,46 @@
       "website": "",
       "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10076",
       "pub_date": "2026-09-07T22:48:33Z"
+    },
+    {
+      "number": "10077",
+      "title": "Few-body dynamics as a gravitational-wave merger channel: The role of binary-single encounters",
+      "start_date": "2027-03-12",
+      "end_date": "2027-03-12",
+      "location": "RAS, Geological Society, Burlington House, Piccadilly, W1J 0BQ",
+      "website": "https://ras.ac.uk/events-and-meetings/ras-meetings/few-body-dynamics-gravitational-wave-mergers-channel-role-binary",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10077",
+      "pub_date": "2026-09-28T16:46:37Z"
+    },
+    {
+      "number": "10078",
+      "title": "LISA-focused Workshop in Melbourne",
+      "start_date": "2027-02-15",
+      "end_date": "2027-02-19",
+      "location": "Melbourne",
+      "website": "",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10078",
+      "pub_date": "2026-09-28T16:45:28Z"
+    },
+    {
+      "number": "10079",
+      "title": "Forming Stars in Cardiff",
+      "start_date": "2027-07-26",
+      "end_date": "2027-07-30",
+      "location": "Cardiff, United Kingdom",
+      "website": "https://sites.google.com/view/formingstarsincardiff/home",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10079",
+      "pub_date": "2026-09-28T16:43:11Z"
+    },
+    {
+      "number": "10080",
+      "title": "Astronomical Data Analysis Software & Systems 2027",
+      "start_date": "2027-10-03",
+      "end_date": "2027-10-07",
+      "location": "Toronto, Canada",
+      "website": "https://www.adass2027.org/",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10080",
+      "pub_date": "2026-09-28T16:44:51Z"
     }
   ]
 }
