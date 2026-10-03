@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T10:31:54+00:00",
+  "generated_at": "2026-10-03T09:53:44+00:00",
   "meetings": [
     {
       "number": "7355",
@@ -1270,6 +1270,36 @@
       "website": "https://www.adass2027.org/",
       "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10080",
       "pub_date": "2026-09-28T16:44:51Z"
+    },
+    {
+      "number": "10081",
+      "title": "Probing Dark Matter with Innovations in Stellar and Galactic Dynamics",
+      "start_date": "2027-08-02",
+      "end_date": "2026-09-23",
+      "location": "Santa Barbara, USA",
+      "website": "https://www.kitp.ucsb.edu/activities/DMPROBES27",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10081",
+      "pub_date": "2026-10-02T15:53:38Z"
+    },
+    {
+      "number": "10084",
+      "title": "When galaxies meet: zooming into the multi-scale physics of interaction and mergers across cosmic time (GALMEET)",
+      "start_date": "2027-06-14",
+      "end_date": "2027-06-18",
+      "location": "ESO Headquarters, Garching near Munich, Germany",
+      "website": "https://www.eso.org/sci/meetings/2027/galmeet.html",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10084",
+      "pub_date": "2026-10-02T15:50:40Z"
+    },
+    {
+      "number": "10085",
+      "title": "WST UK Community Workshop",
+      "start_date": "2026-12-14",
+      "end_date": "2026-12-16",
+      "location": "Institute of Astronomy, University of Cambridge, UK",
+      "website": "https://indico.ast.cam.ac.uk/event/11/",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10085",
+      "pub_date": "2026-10-02T15:48:09Z"
     }
   ]
 }

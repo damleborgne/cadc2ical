@@ -1046,6 +1046,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:cadc-10085@cadc2ical
+DTSTAMP:20261002T154809Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261217
+SUMMARY:WST UK Community Workshop
+LOCATION:Institute of Astronomy\, University of Cambridge\, UK
+URL:https://indico.ast.cam.ac.uk/event/11/
+DESCRIPTION:CADC meeting #10085\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10085\nMeeting website: https://indico.ast.cam.ac.uk/event
+ /11/
+X-CADC-MEETING-NUMBER:10085
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:cadc-9149@cadc2ical
 DTSTAMP:20251120T212756Z
 DTSTART;VALUE=DATE:20270104
@@ -1610,6 +1625,22 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:cadc-10084@cadc2ical
+DTSTAMP:20261002T155040Z
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270619
+SUMMARY:When galaxies meet: zooming into the multi-scale physics of inter
+ action and mergers across cosmic time (GALMEET)
+LOCATION:ESO Headquarters\, Garching near Munich\, Germany
+URL:https://www.eso.org/sci/meetings/2027/galmeet.html
+DESCRIPTION:CADC meeting #10084\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10084\nMeeting website: https://www.eso.org/sci/meetings/2
+ 027/galmeet.html
+X-CADC-MEETING-NUMBER:10084
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:cadc-10054@cadc2ical
 DTSTAMP:20260810T155956Z
 DTSTART;VALUE=DATE:20270616
@@ -1738,6 +1769,22 @@ URL:https://cadiz-meeting2027.ugr.es/
 DESCRIPTION:CADC meeting #10059\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
  c.ca/meetings/10059\nMeeting website: https://cadiz-meeting2027.ugr.es/
 X-CADC-MEETING-NUMBER:10059
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10081@cadc2ical
+DTSTAMP:20261002T155338Z
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20260924
+SUMMARY:Probing Dark Matter with Innovations in Stellar and Galactic Dyna
+ mics
+LOCATION:Santa Barbara\, USA
+URL:https://www.kitp.ucsb.edu/activities/DMPROBES27
+DESCRIPTION:CADC meeting #10081\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10081\nMeeting website: https://www.kitp.ucsb.edu/activiti
+ es/DMPROBES27
+X-CADC-MEETING-NUMBER:10081
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
