@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T11:32:05+00:00",
+  "generated_at": "2026-10-06T11:18:19+00:00",
   "meetings": [
     {
       "number": "7355",
@@ -1282,6 +1282,16 @@
       "pub_date": "2026-10-02T15:53:38Z"
     },
     {
+      "number": "10083",
+      "title": "From gas accretion to the multiphase ISM: How Stars form in Galaxies",
+      "start_date": "2027-06-14",
+      "end_date": "2027-06-18",
+      "location": "Sexten Center for Astrophysics, Bozen, Italy",
+      "website": "https://www.sexten-cfa.eu/event/hsg27/",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10083",
+      "pub_date": "2026-10-05T17:50:15Z"
+    },
+    {
       "number": "10084",
       "title": "When galaxies meet: zooming into the multi-scale physics of interaction and mergers across cosmic time (GALMEET)",
       "start_date": "2027-06-14",
@@ -1300,6 +1310,56 @@
       "website": "https://indico.ast.cam.ac.uk/event/11/",
       "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10085",
       "pub_date": "2026-10-02T15:48:09Z"
+    },
+    {
+      "number": "10086",
+      "title": "Exploring Cosmic Ecosystems: New Frontiers in Survey Astrophysics",
+      "start_date": "2027-03-22",
+      "end_date": "2027-03-24",
+      "location": "Caltech Campus",
+      "website": "",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10086",
+      "pub_date": "2026-10-05T15:04:16Z"
+    },
+    {
+      "number": "10088",
+      "title": "DYNAMIX II -- Dissipation Yields Novel Astrophysical Mechanisms, Interactions, and eXtreme phenomena",
+      "start_date": "2027-04-12",
+      "end_date": "2027-04-16",
+      "location": "University of Oxford",
+      "website": "https://dynamix.site.ox.ac.uk/",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10088",
+      "pub_date": "2026-10-05T18:06:38Z"
+    },
+    {
+      "number": "10089",
+      "title": "Cosmic rays in the molecular interstellar medium",
+      "start_date": "2027-03-15",
+      "end_date": "2027-03-19",
+      "location": "Duisburg, Germany",
+      "website": "https://indico.cenide.de/e/crismchem2027",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10089",
+      "pub_date": "2026-10-05T20:51:07Z"
+    },
+    {
+      "number": "10090",
+      "title": "Strong Lensing in the Next Decade: New Surveys, New Sources, New Science",
+      "start_date": "2027-01-11",
+      "end_date": "2027-01-15",
+      "location": "Shanghai (China)",
+      "website": "https://web.gravity.sjtu.edu.cn/e/stronglens2027",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10090",
+      "pub_date": "2026-10-05T20:52:16Z"
+    },
+    {
+      "number": "10091",
+      "title": "Roman at the Summit: Discovery Enabled by New Panoramic Views of the Universe",
+      "start_date": "2027-09-20",
+      "end_date": "2027-09-24",
+      "location": "Telluride, CO",
+      "website": "",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10091",
+      "pub_date": "2026-10-05T22:53:10Z"
     }
   ]
 }

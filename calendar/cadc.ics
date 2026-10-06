@@ -1126,6 +1126,22 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:cadc-10090@cadc2ical
+DTSTAMP:20261005T205216Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270116
+SUMMARY:Strong Lensing in the Next Decade: New Surveys\, New Sources\, Ne
+ w Science
+LOCATION:Shanghai (China)
+URL:https://web.gravity.sjtu.edu.cn/e/stronglens2027
+DESCRIPTION:CADC meeting #10090\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10090\nMeeting website: https://web.gravity.sjtu.edu.cn/e/
+ stronglens2027
+X-CADC-MEETING-NUMBER:10090
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:cadc-10072@cadc2ical
 DTSTAMP:20260907T225253Z
 DTSTART;VALUE=DATE:20270117
@@ -1387,6 +1403,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:cadc-10089@cadc2ical
+DTSTAMP:20261005T205107Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270320
+SUMMARY:Cosmic rays in the molecular interstellar medium
+LOCATION:Duisburg\, Germany
+URL:https://indico.cenide.de/e/crismchem2027
+DESCRIPTION:CADC meeting #10089\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10089\nMeeting website: https://indico.cenide.de/e/crismch
+ em2027
+X-CADC-MEETING-NUMBER:10089
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:cadc-10076@cadc2ical
 DTSTAMP:20260907T224833Z
 DTSTART;VALUE=DATE:20270315
@@ -1413,6 +1444,20 @@ DESCRIPTION:CADC meeting #10050\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
  c.ca/meetings/10050\nMeeting website: https://www.stsci.edu/events/stis3
  0workshop
 X-CADC-MEETING-NUMBER:10050
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10086@cadc2ical
+DTSTAMP:20261005T150416Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270325
+SUMMARY:Exploring Cosmic Ecosystems: New Frontiers in Survey Astrophysics
+LOCATION:Caltech Campus
+URL:https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10086
+DESCRIPTION:CADC meeting #10086\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10086
+X-CADC-MEETING-NUMBER:10086
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1474,6 +1519,21 @@ URL:https://deepdish-baguette.com
 DESCRIPTION:CADC meeting #10020\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
  c.ca/meetings/10020\nMeeting website: https://deepdish-baguette.com
 X-CADC-MEETING-NUMBER:10020
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10088@cadc2ical
+DTSTAMP:20261005T180638Z
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270417
+SUMMARY:DYNAMIX II -- Dissipation Yields Novel Astrophysical Mechanisms\,
+  Interactions\, and eXtreme phenomena
+LOCATION:University of Oxford
+URL:https://dynamix.site.ox.ac.uk/
+DESCRIPTION:CADC meeting #10088\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10088\nMeeting website: https://dynamix.site.ox.ac.uk/
+X-CADC-MEETING-NUMBER:10088
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1607,6 +1667,22 @@ DESCRIPTION:CADC meeting #10043\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
  c.ca/meetings/10043\nMeeting website: https://sites.lsa.umich.edu/xrism2
  027/
 X-CADC-MEETING-NUMBER:10043
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10083@cadc2ical
+DTSTAMP:20261005T175015Z
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270619
+SUMMARY:From gas accretion to the multiphase ISM: How Stars form in Galax
+ ies
+LOCATION:Sexten Center for Astrophysics\, Bozen\, Italy
+URL:https://www.sexten-cfa.eu/event/hsg27/
+DESCRIPTION:CADC meeting #10083\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10083\nMeeting website: https://www.sexten-cfa.eu/event/hs
+ g27/
+X-CADC-MEETING-NUMBER:10083
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1903,6 +1979,21 @@ DESCRIPTION:CADC meeting #9987\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
  .ca/meetings/9987\nMeeting website: https://indico.dzastro.de/e/maxent-2
  027
 X-CADC-MEETING-NUMBER:9987
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10091@cadc2ical
+DTSTAMP:20261005T225310Z
+DTSTART;VALUE=DATE:20270920
+DTEND;VALUE=DATE:20270925
+SUMMARY:Roman at the Summit: Discovery Enabled by New Panoramic Views of 
+ the Universe
+LOCATION:Telluride\, CO
+URL:https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10091
+DESCRIPTION:CADC meeting #10091\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10091
+X-CADC-MEETING-NUMBER:10091
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
