@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T11:18:19+00:00",
+  "generated_at": "2026-10-07T11:06:13+00:00",
   "meetings": [
     {
       "number": "7355",
@@ -1360,6 +1360,76 @@
       "website": "",
       "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10091",
       "pub_date": "2026-10-05T22:53:10Z"
+    },
+    {
+      "number": "10092",
+      "title": "GBO/NRAO Single Dish Radio Astronomy Summer School",
+      "start_date": "2027-06-27",
+      "end_date": "2027-07-03",
+      "location": "Green Bank, WV, USA",
+      "website": "https://greenbankobservatory.org/events/2027-sdss/",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10092",
+      "pub_date": "2026-10-06T17:00:32Z"
+    },
+    {
+      "number": "10093",
+      "title": "IAU WG-PDPP Workshop 2026: Photographic Astronomical Spectra",
+      "start_date": "2026-10-20",
+      "end_date": "2026-10-23",
+      "location": "Online via Zoom",
+      "website": "https://nadc.china-vo.org/events/PDPP2026",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10093",
+      "pub_date": "2026-10-06T16:59:29Z"
+    },
+    {
+      "number": "10094",
+      "title": "Cosmology on the steep rise",
+      "start_date": "2027-03-01",
+      "end_date": "2027-03-05",
+      "location": "Sexten Center for Astrophysics Riccardo Giacconi, Sesto, Bolzano, Italy",
+      "website": "https://www.sexten-cfa.eu/event/csr27/",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10094",
+      "pub_date": "2026-10-06T16:57:55Z"
+    },
+    {
+      "number": "10095",
+      "title": "Navigating Galaxies: Structure And Feedback Across Environments",
+      "start_date": "2027-06-28",
+      "end_date": "2027-07-02",
+      "location": "Cádiz, Spain",
+      "website": "https://meetings.iac.es/NavigatingGalaxies27/",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10095",
+      "pub_date": "2026-10-06T16:56:56Z"
+    },
+    {
+      "number": "10098",
+      "title": "ngVLA High-resolution Frontier Workshop: Pulsars, Dynamic Universe, and Precision Astrometry",
+      "start_date": "2027-03-22",
+      "end_date": "2027-03-24",
+      "location": "Johns Hopkins University Bloomberg Center, Washington DC",
+      "website": "",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10098",
+      "pub_date": "2026-10-06T16:56:10Z"
+    },
+    {
+      "number": "10099",
+      "title": "Sources of Hard Ionizing Radiation in Starburst Galaxies",
+      "start_date": "2027-08-29",
+      "end_date": "2027-09-19",
+      "location": "Aspen Center for Physics, Colorado, USA",
+      "website": "https://aspenphys.org/summer-workshops/#event6728",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10099",
+      "pub_date": "2026-10-06T20:51:49Z"
+    },
+    {
+      "number": "10100",
+      "title": "FRB 2027 - Celebrating 20 years of FRBs",
+      "start_date": "2027-06-21",
+      "end_date": "2027-06-25",
+      "location": "Villa Tuscolana, Frascati, Rome (Italy)",
+      "website": "https://indico.ict.inaf.it/e/frb2027",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10100",
+      "pub_date": "2026-10-06T20:52:51Z"
     }
   ]
 }

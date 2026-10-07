@@ -511,6 +511,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:cadc-10093@cadc2ical
+DTSTAMP:20261006T165929Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261024
+SUMMARY:IAU WG-PDPP Workshop 2026: Photographic Astronomical Spectra
+LOCATION:Online via Zoom
+URL:https://nadc.china-vo.org/events/PDPP2026
+DESCRIPTION:CADC meeting #10093\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10093\nMeeting website: https://nadc.china-vo.org/events/P
+ DPP2026
+X-CADC-MEETING-NUMBER:10093
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:cadc-9136@cadc2ical
 DTSTAMP:20251104T165314Z
 DTSTART;VALUE=DATE:20261020
@@ -1292,6 +1307,22 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:cadc-10094@cadc2ical
+DTSTAMP:20261006T165755Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270306
+SUMMARY:Cosmology on the steep rise
+LOCATION:Sexten Center for Astrophysics Riccardo Giacconi\, Sesto\, Bolza
+ no\, Italy
+URL:https://www.sexten-cfa.eu/event/csr27/
+DESCRIPTION:CADC meeting #10094\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10094\nMeeting website: https://www.sexten-cfa.eu/event/cs
+ r27/
+X-CADC-MEETING-NUMBER:10094
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:cadc-10048@cadc2ical
 DTSTAMP:20260805T180005Z
 DTSTART;VALUE=DATE:20270301
@@ -1474,6 +1505,21 @@ DESCRIPTION:CADC meeting #10051\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
  c.ca/meetings/10051\nMeeting website: https://www.sexten-cfa.eu/event/lu
  d27/
 X-CADC-MEETING-NUMBER:10051
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10098@cadc2ical
+DTSTAMP:20261006T165610Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270325
+SUMMARY:ngVLA High-resolution Frontier Workshop: Pulsars\, Dynamic Univer
+ se\, and Precision Astrometry
+LOCATION:Johns Hopkins University Bloomberg Center\, Washington DC
+URL:https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10098
+DESCRIPTION:CADC meeting #10098\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10098
+X-CADC-MEETING-NUMBER:10098
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1746,6 +1792,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:cadc-10100@cadc2ical
+DTSTAMP:20261006T205251Z
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270626
+SUMMARY:FRB 2027 - Celebrating 20 years of FRBs
+LOCATION:Villa Tuscolana\, Frascati\, Rome (Italy)
+URL:https://indico.ict.inaf.it/e/frb2027
+DESCRIPTION:CADC meeting #10100\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10100\nMeeting website: https://indico.ict.inaf.it/e/frb20
+ 27
+X-CADC-MEETING-NUMBER:10100
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:cadc-10049@cadc2ical
 DTSTAMP:20260806T144330Z
 DTSTART;VALUE=DATE:20270627
@@ -1760,6 +1821,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:cadc-10092@cadc2ical
+DTSTAMP:20261006T170032Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270704
+SUMMARY:GBO/NRAO Single Dish Radio Astronomy Summer School
+LOCATION:Green Bank\, WV\, USA
+URL:https://greenbankobservatory.org/events/2027-sdss/
+DESCRIPTION:CADC meeting #10092\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10092\nMeeting website: https://greenbankobservatory.org/e
+ vents/2027-sdss/
+X-CADC-MEETING-NUMBER:10092
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:cadc-10037@cadc2ical
 DTSTAMP:20260714T174523Z
 DTSTART;VALUE=DATE:20270628
@@ -1770,6 +1846,21 @@ URL:https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10037
 DESCRIPTION:CADC meeting #10037\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
  c.ca/meetings/10037
 X-CADC-MEETING-NUMBER:10037
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10095@cadc2ical
+DTSTAMP:20261006T165656Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270703
+SUMMARY:Navigating Galaxies: Structure And Feedback Across Environments
+LOCATION:Cádiz\, Spain
+URL:https://meetings.iac.es/NavigatingGalaxies27/
+DESCRIPTION:CADC meeting #10095\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10095\nMeeting website: https://meetings.iac.es/Navigating
+ Galaxies27/
+X-CADC-MEETING-NUMBER:10095
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1892,6 +1983,21 @@ URL:https://iaus418.fisica.unimi.it/
 DESCRIPTION:CADC meeting #10033\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
  c.ca/meetings/10033\nMeeting website: https://iaus418.fisica.unimi.it/
 X-CADC-MEETING-NUMBER:10033
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10099@cadc2ical
+DTSTAMP:20261006T205149Z
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270920
+SUMMARY:Sources of Hard Ionizing Radiation in Starburst Galaxies
+LOCATION:Aspen Center for Physics\, Colorado\, USA
+URL:https://aspenphys.org/summer-workshops/#event6728
+DESCRIPTION:CADC meeting #10099\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10099\nMeeting website: https://aspenphys.org/summer-works
+ hops/#event6728
+X-CADC-MEETING-NUMBER:10099
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
