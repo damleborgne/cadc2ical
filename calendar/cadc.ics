@@ -1672,6 +1672,22 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:cadc-10101@cadc2ical
+DTSTAMP:20261008T152819Z
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270605
+SUMMARY:Les Houches school of physics "Numerical astrophysical fluid dyna
+ mics at the Exascale era"
+LOCATION:Les Houches (near Chamonix)\, France
+URL:https://exastro2027.sciencesconf.org/
+DESCRIPTION:CADC meeting #10101\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10101\nMeeting website: https://exastro2027.sciencesconf.o
+ rg/
+X-CADC-MEETING-NUMBER:10101
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:cadc-9988@cadc2ical
 DTSTAMP:20260418T155837Z
 DTSTART;VALUE=DATE:20270524
@@ -1865,6 +1881,22 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:cadc-10102@cadc2ical
+DTSTAMP:20261008T152535Z
+DTSTART;VALUE=DATE:20270712
+DTEND;VALUE=DATE:20270717
+SUMMARY:Bridging Scales at Cosmic Dawn and Reionization: Stars\, Galaxies
+ \, Black Holes and the Intergalactic Medium
+LOCATION:Institute of Astronomy\, University of Cambridge\, UK
+URL:https://www.ast.cam.ac.uk/events/bridging-scales
+DESCRIPTION:CADC meeting #10102\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10102\nMeeting website: https://www.ast.cam.ac.uk/events/b
+ ridging-scales
+X-CADC-MEETING-NUMBER:10102
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:cadc-9972@cadc2ical
 DTSTAMP:20260318T142054Z
 DTSTART;VALUE=DATE:20270712
@@ -2040,6 +2072,20 @@ URL:https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10063
 DESCRIPTION:CADC meeting #10063\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
  c.ca/meetings/10063
 X-CADC-MEETING-NUMBER:10063
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10104@cadc2ical
+DTSTAMP:20261008T152711Z
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270911
+SUMMARY:Quasars and AGN: past\, present\, and future
+LOCATION:Institute of Astronomy\, University of Cambridge\, UK
+URL:https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10104
+DESCRIPTION:CADC meeting #10104\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10104
+X-CADC-MEETING-NUMBER:10104
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT

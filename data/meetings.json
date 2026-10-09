@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T11:23:39+00:00",
+  "generated_at": "2026-10-09T11:20:48+00:00",
   "meetings": [
     {
       "number": "7355",
@@ -1430,6 +1430,36 @@
       "website": "https://indico.ict.inaf.it/e/frb2027",
       "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10100",
       "pub_date": "2026-10-06T20:52:51Z"
+    },
+    {
+      "number": "10101",
+      "title": "Les Houches school of physics \"Numerical astrophysical fluid dynamics at the Exascale era\"",
+      "start_date": "2027-05-24",
+      "end_date": "2027-06-04",
+      "location": "Les Houches (near Chamonix), France",
+      "website": "https://exastro2027.sciencesconf.org/",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10101",
+      "pub_date": "2026-10-08T15:28:19Z"
+    },
+    {
+      "number": "10102",
+      "title": "Bridging Scales at Cosmic Dawn and Reionization: Stars, Galaxies, Black Holes and the Intergalactic Medium",
+      "start_date": "2027-07-12",
+      "end_date": "2027-07-16",
+      "location": "Institute of Astronomy, University of Cambridge, UK",
+      "website": "https://www.ast.cam.ac.uk/events/bridging-scales",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10102",
+      "pub_date": "2026-10-08T15:25:35Z"
+    },
+    {
+      "number": "10104",
+      "title": "Quasars and AGN: past, present, and future",
+      "start_date": "2027-09-06",
+      "end_date": "2027-09-10",
+      "location": "Institute of Astronomy, University of Cambridge, UK",
+      "website": "",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10104",
+      "pub_date": "2026-10-08T15:27:11Z"
     }
   ]
 }
