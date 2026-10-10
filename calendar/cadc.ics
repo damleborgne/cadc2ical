@@ -1076,6 +1076,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:cadc-10105@cadc2ical
+DTSTAMP:20261009T160526Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261217
+SUMMARY:WST UK Community Workshop
+LOCATION:Institute of Astronomy\, University of Cambridge\, UK
+URL:https://indico.ast.cam.ac.uk/event/11/
+DESCRIPTION:CADC meeting #10105\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10105\nMeeting website: https://indico.ast.cam.ac.uk/event
+ /11/
+X-CADC-MEETING-NUMBER:10105
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:cadc-9149@cadc2ical
 DTSTAMP:20251120T212756Z
 DTSTART;VALUE=DATE:20270104
@@ -1668,6 +1683,21 @@ DESCRIPTION:CADC meeting #10016\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
  c.ca/meetings/10016\nMeeting website: https://connect-the-dots.www3.mpia
  .de/
 X-CADC-MEETING-NUMBER:10016
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10106@cadc2ical
+DTSTAMP:20261009T160646Z
+DTSTART;VALUE=DATE:20270510
+DTEND;VALUE=DATE:20270515
+SUMMARY:Exploring the Dark Side of the Universe (6th edition)
+LOCATION:Guadeloupe
+URL:https://indico.cern.ch/event/1561485/
+DESCRIPTION:CADC meeting #10106\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10106\nMeeting website: https://indico.cern.ch/event/15614
+ 85/
+X-CADC-MEETING-NUMBER:10106
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T11:20:48+00:00",
+  "generated_at": "2026-10-10T10:37:57+00:00",
   "meetings": [
     {
       "number": "7355",
@@ -1460,6 +1460,26 @@
       "website": "",
       "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10104",
       "pub_date": "2026-10-08T15:27:11Z"
+    },
+    {
+      "number": "10105",
+      "title": "WST UK Community Workshop",
+      "start_date": "2026-12-14",
+      "end_date": "2026-12-16",
+      "location": "Institute of Astronomy, University of Cambridge, UK",
+      "website": "https://indico.ast.cam.ac.uk/event/11/",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10105",
+      "pub_date": "2026-10-09T16:05:26Z"
+    },
+    {
+      "number": "10106",
+      "title": "Exploring the Dark Side of the Universe (6th edition)",
+      "start_date": "2027-05-10",
+      "end_date": "2027-05-14",
+      "location": "Guadeloupe",
+      "website": "https://indico.cern.ch/event/1561485/",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10106",
+      "pub_date": "2026-10-09T16:06:46Z"
     }
   ]
 }
