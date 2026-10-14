@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T11:50:36+00:00",
+  "generated_at": "2026-10-14T09:32:44+00:00",
   "meetings": [
     {
       "number": "7355",
@@ -1480,6 +1480,46 @@
       "website": "https://indico.cern.ch/event/1561485/",
       "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10106",
       "pub_date": "2026-10-09T16:06:46Z"
+    },
+    {
+      "number": "10107",
+      "title": "High Resolution Spectroscopy - Towards the Extremely Large Telescopes",
+      "start_date": "2027-04-19",
+      "end_date": "2027-04-23",
+      "location": "La Laguna, Tenerife, Canary Islands",
+      "website": "https://meetings.iac.es/HRS2027/",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10107",
+      "pub_date": "2026-10-13T18:16:50Z"
+    },
+    {
+      "number": "10108",
+      "title": "Environment matters: Star Formation with APEX and Beyond",
+      "start_date": "2027-01-10",
+      "end_date": "2027-01-13",
+      "location": "Physikzentrum Bad Honnef, Germany",
+      "website": "https://indico.mpifr-bonn.mpg.de/e/APEX2027",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10108",
+      "pub_date": "2026-10-13T18:18:46Z"
+    },
+    {
+      "number": "10109",
+      "title": "CL2027: Panoramic Views of Galaxy Cluster Assembly",
+      "start_date": "2027-05-10",
+      "end_date": "2027-05-14",
+      "location": "Tohoku University, Sendai, Japan",
+      "website": "https://sites.google.com/view/cl2027tohoku",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10109",
+      "pub_date": "2026-10-13T18:19:27Z"
+    },
+    {
+      "number": "10110",
+      "title": "Expanding Horizons in high angular resolution astronomy: Shaping the future of optical interferometry in Europe",
+      "start_date": "2027-02-15",
+      "end_date": "2027-02-19",
+      "location": "Florence (Italy)",
+      "website": "https://sites.google.com/inaf.it/interferometry-florence-2027/home",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10110",
+      "pub_date": "2026-10-13T18:20:25Z"
     }
   ]
 }

@@ -1140,6 +1140,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:cadc-10108@cadc2ical
+DTSTAMP:20261013T181846Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270114
+SUMMARY:Environment matters: Star Formation with APEX and Beyond
+LOCATION:Physikzentrum Bad Honnef\, Germany
+URL:https://indico.mpifr-bonn.mpg.de/e/APEX2027
+DESCRIPTION:CADC meeting #10108\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10108\nMeeting website: https://indico.mpifr-bonn.mpg.de/e
+ /APEX2027
+X-CADC-MEETING-NUMBER:10108
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:cadc-10005@cadc2ical
 DTSTAMP:20260515T174905Z
 DTSTART;VALUE=DATE:20270111
@@ -1258,6 +1273,22 @@ URL:https://tinyurl.com/bgss2027
 DESCRIPTION:CADC meeting #10011\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
  c.ca/meetings/10011\nMeeting website: https://tinyurl.com/bgss2027
 X-CADC-MEETING-NUMBER:10011
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10110@cadc2ical
+DTSTAMP:20261013T182025Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270220
+SUMMARY:Expanding Horizons in high angular resolution astronomy: Shaping 
+ the future of optical interferometry in Europe
+LOCATION:Florence (Italy)
+URL:https://sites.google.com/inaf.it/interferometry-florence-2027/home
+DESCRIPTION:CADC meeting #10110\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10110\nMeeting website: https://sites.google.com/inaf.it/i
+ nterferometry-florence-2027/home
+X-CADC-MEETING-NUMBER:10110
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1613,6 +1644,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:cadc-10107@cadc2ical
+DTSTAMP:20261013T181650Z
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270424
+SUMMARY:High Resolution Spectroscopy - Towards the Extremely Large Telesc
+ opes
+LOCATION:La Laguna\, Tenerife\, Canary Islands
+URL:https://meetings.iac.es/HRS2027/
+DESCRIPTION:CADC meeting #10107\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10107\nMeeting website: https://meetings.iac.es/HRS2027/
+X-CADC-MEETING-NUMBER:10107
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:cadc-10022@cadc2ical
 DTSTAMP:20260614T200945Z
 DTSTART;VALUE=DATE:20270419
@@ -1668,6 +1714,21 @@ URL:https://sn1987a.casconf.cn/
 DESCRIPTION:CADC meeting #9142\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
  .ca/meetings/9142\nMeeting website: https://sn1987a.casconf.cn/
 X-CADC-MEETING-NUMBER:9142
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10109@cadc2ical
+DTSTAMP:20261013T181927Z
+DTSTART;VALUE=DATE:20270510
+DTEND;VALUE=DATE:20270515
+SUMMARY:CL2027: Panoramic Views of Galaxy Cluster Assembly
+LOCATION:Tohoku University\, Sendai\, Japan
+URL:https://sites.google.com/view/cl2027tohoku
+DESCRIPTION:CADC meeting #10109\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10109\nMeeting website: https://sites.google.com/view/cl20
+ 27tohoku
+X-CADC-MEETING-NUMBER:10109
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
