@@ -1155,6 +1155,20 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:cadc-10071@cadc2ical
+DTSTAMP:20261014T143136Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270123
+SUMMARY:4th Gravitational Wave School
+LOCATION:La Serena\, Chile
+URL:https://indico.global/event/17396
+DESCRIPTION:CADC meeting #10071\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10071\nMeeting website: https://indico.global/event/17396
+X-CADC-MEETING-NUMBER:10071
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:cadc-10005@cadc2ical
 DTSTAMP:20260515T174905Z
 DTSTART;VALUE=DATE:20270111
@@ -2177,6 +2191,20 @@ URL:https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10104
 DESCRIPTION:CADC meeting #10104\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
  c.ca/meetings/10104
 X-CADC-MEETING-NUMBER:10104
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10111@cadc2ical
+DTSTAMP:20261014T142103Z
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270911
+SUMMARY:Quasars and AGN: past\, present\, and future
+LOCATION:Institute of Astronomy\, University of Cambridge\, UK
+URL:https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10111
+DESCRIPTION:CADC meeting #10111\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10111
+X-CADC-MEETING-NUMBER:10111
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT

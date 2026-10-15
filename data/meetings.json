@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T09:32:44+00:00",
+  "generated_at": "2026-10-15T09:10:36+00:00",
   "meetings": [
     {
       "number": "7355",
@@ -1182,6 +1182,16 @@
       "pub_date": "2026-08-31T15:53:19Z"
     },
     {
+      "number": "10071",
+      "title": "4th Gravitational Wave School",
+      "start_date": "2027-01-11",
+      "end_date": "2027-01-22",
+      "location": "La Serena, Chile",
+      "website": "https://indico.global/event/17396",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10071",
+      "pub_date": "2026-10-14T14:31:36Z"
+    },
+    {
       "number": "10072",
       "title": "Fundamental Physics from the Primordial Era with Galaxy Surveys (Aspen Winter Conference 2027)",
       "start_date": "2027-01-17",
@@ -1520,6 +1530,16 @@
       "website": "https://sites.google.com/inaf.it/interferometry-florence-2027/home",
       "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10110",
       "pub_date": "2026-10-13T18:20:25Z"
+    },
+    {
+      "number": "10111",
+      "title": "Quasars and AGN: past, present, and future",
+      "start_date": "2027-09-06",
+      "end_date": "2027-09-10",
+      "location": "Institute of Astronomy, University of Cambridge, UK",
+      "website": "",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10111",
+      "pub_date": "2026-10-14T14:21:03Z"
     }
   ]
 }
