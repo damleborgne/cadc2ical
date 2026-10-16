@@ -24,22 +24,6 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cadc-10007@cadc2ical
-DTSTAMP:20260527T081733Z
-DTSTART;VALUE=DATE:20260914
-DTEND;VALUE=DATE:20260916
-SUMMARY:BRIdge the Disciplines related to Galactic Chemical Evolution (BR
- IDGCE) School 2026
-LOCATION:University of Hertfordshire\, Hatfield\, United Kingdom
-URL:https://sites.google.com/view/bridgce-herts-2026/the-school
-DESCRIPTION:CADC meeting #10007\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
- c.ca/meetings/10007\nMeeting website: https://sites.google.com/view/brid
- gce-herts-2026/the-school
-X-CADC-MEETING-NUMBER:10007
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:cadc-10000@cadc2ical
 DTSTAMP:20260511T154236Z
 DTSTART;VALUE=DATE:20260914
@@ -1243,6 +1227,22 @@ URL:https://saasfee2027.ch/
 DESCRIPTION:CADC meeting #10066\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
  c.ca/meetings/10066\nMeeting website: https://saasfee2027.ch/
 X-CADC-MEETING-NUMBER:10066
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10112@cadc2ical
+DTSTAMP:20261015T175912Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270130
+SUMMARY:The 2nd Milne Centre Winter Workshop on Stellar\, Galactic and Ex
+ tragalactic Astrophysics
+LOCATION:University of Hull\, United Kingdom
+URL:https://www.milne.hull.ac.uk/milne-workshop-2/
+DESCRIPTION:CADC meeting #10112\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10112\nMeeting website: https://www.milne.hull.ac.uk/milne
+ -workshop-2/
+X-CADC-MEETING-NUMBER:10112
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT

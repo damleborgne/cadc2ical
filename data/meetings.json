@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T09:10:36+00:00",
+  "generated_at": "2026-10-16T09:03:11+00:00",
   "meetings": [
     {
       "number": "7355",
@@ -1540,6 +1540,16 @@
       "website": "",
       "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10111",
       "pub_date": "2026-10-14T14:21:03Z"
+    },
+    {
+      "number": "10112",
+      "title": "The 2nd Milne Centre Winter Workshop on Stellar, Galactic and Extragalactic Astrophysics",
+      "start_date": "2027-01-28",
+      "end_date": "2027-01-29",
+      "location": "University of Hull, United Kingdom",
+      "website": "https://www.milne.hull.ac.uk/milne-workshop-2/",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10112",
+      "pub_date": "2026-10-15T17:59:12Z"
     }
   ]
 }
