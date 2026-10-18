@@ -38,22 +38,6 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cadc-9978@cadc2ical
-DTSTAMP:20260407T171201Z
-DTSTART;VALUE=DATE:20260914
-DTEND;VALUE=DATE:20260918
-SUMMARY:Illuminating the Active Universe: Multi-Wavelength and Multi-Mess
- enger Insights into AGN
-LOCATION:ESO Headquarters in Garching
-URL:https://indico.global/event/17292/overview
-DESCRIPTION:CADC meeting #9978\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
- .ca/meetings/9978\nMeeting website: https://indico.global/event/17292/ov
- erview
-X-CADC-MEETING-NUMBER:9978
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:cadc-10013@cadc2ical
 DTSTAMP:20260527T081856Z
 DTSTART;VALUE=DATE:20260914
