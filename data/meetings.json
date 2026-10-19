@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T08:52:17+00:00",
+  "generated_at": "2026-10-19T09:56:27+00:00",
   "meetings": [
     {
       "number": "7355",
@@ -1550,6 +1550,46 @@
       "website": "https://www.milne.hull.ac.uk/milne-workshop-2/",
       "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10112",
       "pub_date": "2026-10-15T17:59:12Z"
+    },
+    {
+      "number": "10114",
+      "title": "TESS Science Conference IV (TSC4)",
+      "start_date": "2027-07-26",
+      "end_date": "2027-07-30",
+      "location": "MIT, Cambridge, MA, USA",
+      "website": "https://tsc.mit.edu/2027/",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10114",
+      "pub_date": "2026-10-18T17:49:02Z"
+    },
+    {
+      "number": "10115",
+      "title": "THE 13th INTERNATIONAL Meeting on Hot Subdwarf Stars & Related Objects",
+      "start_date": "2027-09-05",
+      "end_date": "2027-09-10",
+      "location": "Old Castle Dornburg, Thuringia, Germany",
+      "website": "https://sdob13.tls-tautenburg.de/",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10115",
+      "pub_date": "2026-10-18T17:50:15Z"
+    },
+    {
+      "number": "10117",
+      "title": "Vasto Accretion Meeting 2027: Stellar mass compact objects",
+      "start_date": "2027-06-21",
+      "end_date": "2027-06-25",
+      "location": "Vasto (IT)",
+      "website": "https://astro.dur.ac.uk/conferences/vam2027/binaries",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10117",
+      "pub_date": "2026-10-18T17:51:28Z"
+    },
+    {
+      "number": "10118",
+      "title": "Vasto Accretion Meeting 2027: Active Galactic Nuclei",
+      "start_date": "2027-06-28",
+      "end_date": "2027-07-02",
+      "location": "Vasto (IT)",
+      "website": "https://astro.dur.ac.uk/conferences/vam2027/agn",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10118",
+      "pub_date": "2026-10-18T17:52:03Z"
     }
   ]
 }

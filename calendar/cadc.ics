@@ -9,67 +9,6 @@ X-WR-CALDESC:International astronomy meetings mirrored from the CADC RSS
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:cadc-9117@cadc2ical
-DTSTAMP:20260225T162323Z
-DTSTART;VALUE=DATE:20260914
-DTEND;VALUE=DATE:20260919
-SUMMARY:17th European VLBI Network Symposium and Users' Meeting
-LOCATION:Manchester\, United Kingdom
-URL:https://www.e-merlin.ac.uk/EVNSymp2026/
-DESCRIPTION:CADC meeting #9117\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
- .ca/meetings/9117\nMeeting website: https://www.e-merlin.ac.uk/EVNSymp20
- 26/
-X-CADC-MEETING-NUMBER:9117
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:cadc-10000@cadc2ical
-DTSTAMP:20260511T154236Z
-DTSTART;VALUE=DATE:20260914
-DTEND;VALUE=DATE:20260919
-SUMMARY:Gravity@Prague 2026
-LOCATION:Prague\, Czech Republic
-URL:https://gravity-prague.fzu.cz/
-DESCRIPTION:CADC meeting #10000\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
- c.ca/meetings/10000\nMeeting website: https://gravity-prague.fzu.cz/
-X-CADC-MEETING-NUMBER:10000
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:cadc-10013@cadc2ical
-DTSTAMP:20260527T081856Z
-DTSTART;VALUE=DATE:20260914
-DTEND;VALUE=DATE:20260919
-SUMMARY:IMPRS Summer School on "Cosmic Multiplicity: Evolution and Fate o
- f Binary Stars"
-LOCATION:Heidelberg\, Germany
-URL:https://www.imprs-hd.mpg.de/Summer-School
-DESCRIPTION:CADC meeting #10013\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
- c.ca/meetings/10013\nMeeting website: https://www.imprs-hd.mpg.de/Summer
- -School
-X-CADC-MEETING-NUMBER:10013
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:cadc-9936@cadc2ical
-DTSTAMP:20260217T154815Z
-DTSTART;VALUE=DATE:20260914
-DTEND;VALUE=DATE:20260919
-SUMMARY:International Symposium "Our Non-Stable Universe"\, dedicated to 
- the 80th anniversary of the Byurakan Astrophysical Observatory (BAO)
-LOCATION:Yerevan\, Armenia
-URL:https://www.bao.am/meetings/meetings/BAO80/
-DESCRIPTION:CADC meeting #9936\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
- .ca/meetings/9936\nMeeting website: https://www.bao.am/meetings/meetings
- /BAO80/
-X-CADC-MEETING-NUMBER:9936
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:cadc-9947@cadc2ical
 DTSTAMP:20260220T205215Z
 DTSTART;VALUE=DATE:20260916
@@ -81,22 +20,6 @@ DESCRIPTION:CADC meeting #9947\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
  .ca/meetings/9947\nMeeting website: https://acme-lds2026.sciencesconf.or
  g/
 X-CADC-MEETING-NUMBER:9947
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:cadc-10014@cadc2ical
-DTSTAMP:20260527T135610Z
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260919
-SUMMARY:BRIdge the Disciplines related to Galactic Chemical Evolution (BR
- IDGCE) Annual Meeting 2026
-LOCATION:University of Hertfordshire\, Hatfield\, United Kingdom
-URL:https://sites.google.com/view/bridgce-herts-2026/the-meeting
-DESCRIPTION:CADC meeting #10014\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
- c.ca/meetings/10014\nMeeting website: https://sites.google.com/view/brid
- gce-herts-2026/the-meeting
-X-CADC-MEETING-NUMBER:10014
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1912,6 +1835,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:cadc-10117@cadc2ical
+DTSTAMP:20261018T175128Z
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270626
+SUMMARY:Vasto Accretion Meeting 2027: Stellar mass compact objects
+LOCATION:Vasto (IT)
+URL:https://astro.dur.ac.uk/conferences/vam2027/binaries
+DESCRIPTION:CADC meeting #10117\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10117\nMeeting website: https://astro.dur.ac.uk/conference
+ s/vam2027/binaries
+X-CADC-MEETING-NUMBER:10117
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:cadc-10049@cadc2ical
 DTSTAMP:20260806T144330Z
 DTSTART;VALUE=DATE:20270627
@@ -1966,6 +1904,21 @@ DESCRIPTION:CADC meeting #10095\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
  c.ca/meetings/10095\nMeeting website: https://meetings.iac.es/Navigating
  Galaxies27/
 X-CADC-MEETING-NUMBER:10095
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10118@cadc2ical
+DTSTAMP:20261018T175203Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270703
+SUMMARY:Vasto Accretion Meeting 2027: Active Galactic Nuclei
+LOCATION:Vasto (IT)
+URL:https://astro.dur.ac.uk/conferences/vam2027/agn
+DESCRIPTION:CADC meeting #10118\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10118\nMeeting website: https://astro.dur.ac.uk/conference
+ s/vam2027/agn
+X-CADC-MEETING-NUMBER:10118
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2042,6 +1995,20 @@ DESCRIPTION:CADC meeting #10060\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
  c.ca/meetings/10060\nMeeting website: https://www.eso.org/sci/meetings/2
  027/whitedwarfbinaries.html
 X-CADC-MEETING-NUMBER:10060
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10114@cadc2ical
+DTSTAMP:20261018T174902Z
+DTSTART;VALUE=DATE:20270726
+DTEND;VALUE=DATE:20270731
+SUMMARY:TESS Science Conference IV (TSC4)
+LOCATION:MIT\, Cambridge\, MA\, USA
+URL:https://tsc.mit.edu/2027/
+DESCRIPTION:CADC meeting #10114\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10114\nMeeting website: https://tsc.mit.edu/2027/
+X-CADC-MEETING-NUMBER:10114
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2133,6 +2100,21 @@ URL:https://excosm2027.ut.ee
 DESCRIPTION:CADC meeting #9941\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
  .ca/meetings/9941\nMeeting website: https://excosm2027.ut.ee
 X-CADC-MEETING-NUMBER:9941
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10115@cadc2ical
+DTSTAMP:20261018T175015Z
+DTSTART;VALUE=DATE:20270905
+DTEND;VALUE=DATE:20270911
+SUMMARY:THE 13th INTERNATIONAL Meeting on Hot Subdwarf Stars & Related Ob
+ jects
+LOCATION:Old Castle Dornburg\, Thuringia\, Germany
+URL:https://sdob13.tls-tautenburg.de/
+DESCRIPTION:CADC meeting #10115\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10115\nMeeting website: https://sdob13.tls-tautenburg.de/
+X-CADC-MEETING-NUMBER:10115
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
