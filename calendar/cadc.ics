@@ -1745,6 +1745,20 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:cadc-10121@cadc2ical
+DTSTAMP:20261019T151101Z
+DTSTART;VALUE=DATE:20270607
+DTEND;VALUE=DATE:20270619
+SUMMARY:SIDM Donostia 2027: Dark Matter Dynamics Across Cosmic Epochs
+LOCATION:Donostia International Physics Center\, San Sebastián\, Spain
+URL:https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10121
+DESCRIPTION:CADC meeting #10121\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10121
+X-CADC-MEETING-NUMBER:10121
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:cadc-10083@cadc2ical
 DTSTAMP:20261005T175015Z
 DTSTART;VALUE=DATE:20270614
@@ -2119,6 +2133,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:cadc-10122@cadc2ical
+DTSTAMP:20261019T154537Z
+DTSTART;VALUE=DATE:20270905
+DTEND;VALUE=DATE:20270911
+SUMMARY:THE 13th INTERNATIONAL Meeting on Hot Subdwarf Stars & Related Ob
+ jects
+LOCATION:Old Castle Dornburg\, Thuringia\, Germany
+URL:https://sdob13.tls-tautenburg.de/
+DESCRIPTION:CADC meeting #10122\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10122\nMeeting website: https://sdob13.tls-tautenburg.de/
+X-CADC-MEETING-NUMBER:10122
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:cadc-9910@cadc2ical
 DTSTAMP:20260115T210935Z
 DTSTART;VALUE=DATE:20270906
@@ -2185,6 +2214,21 @@ URL:https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10044
 DESCRIPTION:CADC meeting #10044\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
  c.ca/meetings/10044
 X-CADC-MEETING-NUMBER:10044
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10123@cadc2ical
+DTSTAMP:20261019T170954Z
+DTSTART;VALUE=DATE:20270912
+DTEND;VALUE=DATE:20270917
+SUMMARY:HWO 2027 Science Meeting
+LOCATION:Pasadena\, CA
+URL:https://conference.ipac.caltech.edu/hwo2027/
+DESCRIPTION:CADC meeting #10123\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10123\nMeeting website: https://conference.ipac.caltech.ed
+ u/hwo2027/
+X-CADC-MEETING-NUMBER:10123
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
