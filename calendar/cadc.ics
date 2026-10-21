@@ -1431,6 +1431,22 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:cadc-10127@cadc2ical
+DTSTAMP:20261020T170747Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270320
+SUMMARY:RiekeFest: The Growth of Infrared Astronomy and Active Galaxies f
+ rom the Galactic Center to the Edge of the Universe
+LOCATION:Tucson\, Arizona\, USA
+URL:https://fenrir.as.arizona.edu/riekefest/
+DESCRIPTION:CADC meeting #10127\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10127\nMeeting website: https://fenrir.as.arizona.edu/riek
+ efest/
+X-CADC-MEETING-NUMBER:10127
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:cadc-10050@cadc2ical
 DTSTAMP:20260810T151200Z
 DTSTART;VALUE=DATE:20270317
@@ -1487,6 +1503,23 @@ URL:https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10098
 DESCRIPTION:CADC meeting #10098\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
  c.ca/meetings/10098
 X-CADC-MEETING-NUMBER:10098
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10129@cadc2ical
+DTSTAMP:20261020T170309Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270325
+SUMMARY:ngVLA High-resolution Frontier Workshop: Pulsars\, Dynamic Univer
+ se\, and Precision Astrometry
+LOCATION:Johns Hopkins University Bloomberg Center\, Washington DC
+URL:https://science.nrao.edu/science/meetings/2027/ngvla-high-resolution-
+ frontier/
+DESCRIPTION:CADC meeting #10129\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10129\nMeeting website: https://science.nrao.edu/science/m
+ eetings/2027/ngvla-high-resolution-frontier/
+X-CADC-MEETING-NUMBER:10129
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1755,6 +1788,20 @@ URL:https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10121
 DESCRIPTION:CADC meeting #10121\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
  c.ca/meetings/10121
 X-CADC-MEETING-NUMBER:10121
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10126@cadc2ical
+DTSTAMP:20261020T171014Z
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270619
+SUMMARY:CASCA 2027
+LOCATION:Virtual
+URL:https://www.casca.ca/vagm2027
+DESCRIPTION:CADC meeting #10126\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10126\nMeeting website: https://www.casca.ca/vagm2027
+X-CADC-MEETING-NUMBER:10126
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2085,6 +2132,21 @@ URL:https://iaus418.fisica.unimi.it/
 DESCRIPTION:CADC meeting #10033\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
  c.ca/meetings/10033\nMeeting website: https://iaus418.fisica.unimi.it/
 X-CADC-MEETING-NUMBER:10033
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10128@cadc2ical
+DTSTAMP:20261020T170600Z
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270904
+SUMMARY:Active small bodies in the Solar System over a wide range of heli
+ ocentric distances
+LOCATION:Vysoké Tatry\, Slovak Republic
+URL:https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10128
+DESCRIPTION:CADC meeting #10128\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10128
+X-CADC-MEETING-NUMBER:10128
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
