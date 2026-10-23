@@ -1199,12 +1199,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:cadc-10110@cadc2ical
-DTSTAMP:20261013T182025Z
+DTSTAMP:20261022T160234Z
 DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270220
 SUMMARY:Expanding Horizons in high angular resolution astronomy: Shaping 
  the future of optical interferometry in Europe
-LOCATION:Florence (Italy)
+LOCATION:Fuligno Conference centre\, Florence (Italy)
 URL:https://sites.google.com/inaf.it/interferometry-florence-2027/home
 DESCRIPTION:CADC meeting #10110\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
  c.ca/meetings/10110\nMeeting website: https://sites.google.com/inaf.it/i
@@ -1892,6 +1892,22 @@ DESCRIPTION:CADC meeting #10100\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
  c.ca/meetings/10100\nMeeting website: https://indico.ict.inaf.it/e/frb20
  27
 X-CADC-MEETING-NUMBER:10100
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10130@cadc2ical
+DTSTAMP:20261022T160135Z
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270626
+SUMMARY:Galaxy Groups as Laboratories of Structure Formation: New Insight
+ s and Challenges
+LOCATION:Sexten (Italy)
+URL:https://www.sexten-cfa.eu/event/ggl27/
+DESCRIPTION:CADC meeting #10130\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10130\nMeeting website: https://www.sexten-cfa.eu/event/gg
+ l27/
+X-CADC-MEETING-NUMBER:10130
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT

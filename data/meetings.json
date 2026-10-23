@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T09:26:10+00:00",
+  "generated_at": "2026-10-23T09:22:24+00:00",
   "meetings": [
     {
       "number": "7355",
@@ -1526,10 +1526,10 @@
       "title": "Expanding Horizons in high angular resolution astronomy: Shaping the future of optical interferometry in Europe",
       "start_date": "2027-02-15",
       "end_date": "2027-02-19",
-      "location": "Florence (Italy)",
+      "location": "Fuligno Conference centre, Florence (Italy)",
       "website": "https://sites.google.com/inaf.it/interferometry-florence-2027/home",
       "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10110",
-      "pub_date": "2026-10-13T18:20:25Z"
+      "pub_date": "2026-10-22T16:02:34Z"
     },
     {
       "number": "10111",
@@ -1670,6 +1670,16 @@
       "website": "https://science.nrao.edu/science/meetings/2027/ngvla-high-resolution-frontier/",
       "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10129",
       "pub_date": "2026-10-20T17:03:09Z"
+    },
+    {
+      "number": "10130",
+      "title": "Galaxy Groups as Laboratories of Structure Formation: New Insights and Challenges",
+      "start_date": "2027-06-21",
+      "end_date": "2027-06-25",
+      "location": "Sexten (Italy)",
+      "website": "https://www.sexten-cfa.eu/event/ggl27/",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10130",
+      "pub_date": "2026-10-22T16:01:35Z"
     }
   ]
 }
