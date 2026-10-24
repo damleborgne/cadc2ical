@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T09:22:24+00:00",
+  "generated_at": "2026-10-24T08:53:58+00:00",
   "meetings": [
     {
       "number": "7355",
@@ -1680,6 +1680,16 @@
       "website": "https://www.sexten-cfa.eu/event/ggl27/",
       "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10130",
       "pub_date": "2026-10-22T16:01:35Z"
+    },
+    {
+      "number": "10131",
+      "title": "The right of seeing the stars: Toward sustainable astronomy in 2050",
+      "start_date": "2027-11-08",
+      "end_date": "2027-11-12",
+      "location": "Garching near Munich",
+      "website": "https://www.eso.org/sci/meetings/2027/sustainableastronomy.html",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10131",
+      "pub_date": "2026-10-23T16:01:15Z"
     }
   ]
 }

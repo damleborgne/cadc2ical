@@ -9,21 +9,6 @@ X-WR-CALDESC:International astronomy meetings mirrored from the CADC RSS
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:cadc-9947@cadc2ical
-DTSTAMP:20260220T205215Z
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260924
-SUMMARY:8th LOFAR Data School
-LOCATION:ASTRON\, Dwingeloo\, the Netherlands
-URL:https://acme-lds2026.sciencesconf.org/
-DESCRIPTION:CADC meeting #9947\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
- .ca/meetings/9947\nMeeting website: https://acme-lds2026.sciencesconf.or
- g/
-X-CADC-MEETING-NUMBER:9947
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:cadc-9960@cadc2ical
 DTSTAMP:20260308T165707Z
 DTSTART;VALUE=DATE:20260920
@@ -2105,22 +2090,6 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cadc-10081@cadc2ical
-DTSTAMP:20261002T155338Z
-DTSTART;VALUE=DATE:20270802
-DTEND;VALUE=DATE:20260924
-SUMMARY:Probing Dark Matter with Innovations in Stellar and Galactic Dyna
- mics
-LOCATION:Santa Barbara\, USA
-URL:https://www.kitp.ucsb.edu/activities/DMPROBES27
-DESCRIPTION:CADC meeting #10081\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
- c.ca/meetings/10081\nMeeting website: https://www.kitp.ucsb.edu/activiti
- es/DMPROBES27
-X-CADC-MEETING-NUMBER:10081
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:cadc-10024@cadc2ical
 DTSTAMP:20260621T202040Z
 DTSTART;VALUE=DATE:20270802
@@ -2398,6 +2367,22 @@ URL:http://www.iaus414patagonia.cl
 DESCRIPTION:CADC meeting #10032\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
  c.ca/meetings/10032\nMeeting website: http://www.iaus414patagonia.cl
 X-CADC-MEETING-NUMBER:10032
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10131@cadc2ical
+DTSTAMP:20261023T160115Z
+DTSTART;VALUE=DATE:20271108
+DTEND;VALUE=DATE:20271113
+SUMMARY:The right of seeing the stars: Toward sustainable astronomy in 20
+ 50
+LOCATION:Garching near Munich
+URL:https://www.eso.org/sci/meetings/2027/sustainableastronomy.html
+DESCRIPTION:CADC meeting #10131\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10131\nMeeting website: https://www.eso.org/sci/meetings/2
+ 027/sustainableastronomy.html
+X-CADC-MEETING-NUMBER:10131
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
