@@ -1373,9 +1373,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:cadc-10086@cadc2ical
-DTSTAMP:20261005T150416Z
+DTSTAMP:20261027T222109Z
 DTSTART;VALUE=DATE:20270322
-DTEND;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
 SUMMARY:Exploring Cosmic Ecosystems: New Frontiers in Survey Astrophysics
 LOCATION:Caltech Campus
 URL:https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10086
@@ -1698,6 +1698,21 @@ URL:https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10121
 DESCRIPTION:CADC meeting #10121\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
  c.ca/meetings/10121
 X-CADC-MEETING-NUMBER:10121
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10132@cadc2ical
+DTSTAMP:20261027T154505Z
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270619
+SUMMARY:2027 Michigan Cosmology Summer School
+LOCATION:Ann Arbor\, MI
+URL:https://huterer.github.io/cosmology-school-2027/
+DESCRIPTION:CADC meeting #10132\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10132\nMeeting website: https://huterer.github.io/cosmolog
+ y-school-2027/
+X-CADC-MEETING-NUMBER:10132
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT

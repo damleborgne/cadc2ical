@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T09:50:24+00:00",
+  "generated_at": "2026-10-28T10:36:38+00:00",
   "meetings": [
     {
       "number": "7355",
@@ -1325,11 +1325,11 @@
       "number": "10086",
       "title": "Exploring Cosmic Ecosystems: New Frontiers in Survey Astrophysics",
       "start_date": "2027-03-22",
-      "end_date": "2027-03-24",
+      "end_date": "2027-03-25",
       "location": "Caltech Campus",
       "website": "",
       "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10086",
-      "pub_date": "2026-10-05T15:04:16Z"
+      "pub_date": "2026-10-27T22:21:09Z"
     },
     {
       "number": "10088",
@@ -1690,6 +1690,16 @@
       "website": "https://www.eso.org/sci/meetings/2027/sustainableastronomy.html",
       "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10131",
       "pub_date": "2026-10-23T16:01:15Z"
+    },
+    {
+      "number": "10132",
+      "title": "2027 Michigan Cosmology Summer School",
+      "start_date": "2027-06-14",
+      "end_date": "2027-06-18",
+      "location": "Ann Arbor, MI",
+      "website": "https://huterer.github.io/cosmology-school-2027/",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10132",
+      "pub_date": "2026-10-27T15:45:05Z"
     }
   ]
 }
