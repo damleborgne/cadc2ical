@@ -1048,6 +1048,22 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:cadc-10133@cadc2ical
+DTSTAMP:20261028T162918Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270130
+SUMMARY:The Roadmap to Planets: physical processes across evolutionary st
+ ages in star and planet formation
+LOCATION:Ringberg Castle
+URL:https://sites.google.com/view/theroadmaptoplanets/home-page
+DESCRIPTION:CADC meeting #10133\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10133\nMeeting website: https://sites.google.com/view/ther
+ oadmaptoplanets/home-page
+X-CADC-MEETING-NUMBER:10133
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:cadc-10112@cadc2ical
 DTSTAMP:20261015T175912Z
 DTSTART;VALUE=DATE:20270128
@@ -1373,11 +1389,11 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:cadc-10086@cadc2ical
-DTSTAMP:20261027T222109Z
+DTSTAMP:20261028T165910Z
 DTSTART;VALUE=DATE:20270322
 DTEND;VALUE=DATE:20270326
 SUMMARY:Exploring Cosmic Ecosystems: New Frontiers in Survey Astrophysics
-LOCATION:Caltech Campus
+LOCATION:Pasadena\, CA
 URL:https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10086
 DESCRIPTION:CADC meeting #10086\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
  c.ca/meetings/10086
@@ -1698,6 +1714,21 @@ URL:https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10121
 DESCRIPTION:CADC meeting #10121\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
  c.ca/meetings/10121
 X-CADC-MEETING-NUMBER:10121
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10134@cadc2ical
+DTSTAMP:20261028T162625Z
+DTSTART;VALUE=DATE:20270613
+DTEND;VALUE=DATE:20270619
+SUMMARY:Observing and Simulating Galaxy Evolution in the Era of JWST
+LOCATION:Congressi Stefano Franscini\, Ascona\, Switzerland
+URL:https://www.astro.uzh.ch/ascona2027/
+DESCRIPTION:CADC meeting #10134\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10134\nMeeting website: https://www.astro.uzh.ch/ascona202
+ 7/
+X-CADC-MEETING-NUMBER:10134
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT

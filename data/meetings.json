@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T10:36:38+00:00",
+  "generated_at": "2026-10-29T10:54:59+00:00",
   "meetings": [
     {
       "number": "7355",
@@ -1326,10 +1326,10 @@
       "title": "Exploring Cosmic Ecosystems: New Frontiers in Survey Astrophysics",
       "start_date": "2027-03-22",
       "end_date": "2027-03-25",
-      "location": "Caltech Campus",
+      "location": "Pasadena, CA",
       "website": "",
       "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10086",
-      "pub_date": "2026-10-27T22:21:09Z"
+      "pub_date": "2026-10-28T16:59:10Z"
     },
     {
       "number": "10088",
@@ -1700,6 +1700,26 @@
       "website": "https://huterer.github.io/cosmology-school-2027/",
       "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10132",
       "pub_date": "2026-10-27T15:45:05Z"
+    },
+    {
+      "number": "10133",
+      "title": "The Roadmap to Planets: physical processes across evolutionary stages in star and planet formation",
+      "start_date": "2027-01-25",
+      "end_date": "2027-01-29",
+      "location": "Ringberg Castle",
+      "website": "https://sites.google.com/view/theroadmaptoplanets/home-page",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10133",
+      "pub_date": "2026-10-28T16:29:18Z"
+    },
+    {
+      "number": "10134",
+      "title": "Observing and Simulating Galaxy Evolution in the Era of JWST",
+      "start_date": "2027-06-13",
+      "end_date": "2027-06-18",
+      "location": "Congressi Stefano Franscini, Ascona, Switzerland",
+      "website": "https://www.astro.uzh.ch/ascona2027/",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10134",
+      "pub_date": "2026-10-28T16:26:25Z"
     }
   ]
 }
