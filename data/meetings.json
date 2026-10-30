@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T10:54:59+00:00",
+  "generated_at": "2026-10-30T10:53:28+00:00",
   "meetings": [
     {
       "number": "7355",
@@ -1720,6 +1720,16 @@
       "website": "https://www.astro.uzh.ch/ascona2027/",
       "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10134",
       "pub_date": "2026-10-28T16:26:25Z"
+    },
+    {
+      "number": "10136",
+      "title": "Scientific Writing for Young Astronomers (SWYA) School",
+      "start_date": "2027-04-26",
+      "end_date": "2027-04-30",
+      "location": "Byurakan Astrophysical Observatory (BAO)",
+      "website": "https://www.swya.org/",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10136",
+      "pub_date": "2026-10-29T18:47:09Z"
     }
   ]
 }
