@@ -9,20 +9,6 @@ X-WR-CALDESC:International astronomy meetings mirrored from the CADC RSS
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:cadc-9960@cadc2ical
-DTSTAMP:20260308T165707Z
-DTSTART;VALUE=DATE:20260920
-DTEND;VALUE=DATE:20261003
-SUMMARY:Mineral and Material Sciences for Space Exploration
-LOCATION:Nairobi\, Kenya
-URL:https://cospar.uonbi.ac.ke/
-DESCRIPTION:CADC meeting #9960\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
- .ca/meetings/9960\nMeeting website: https://cospar.uonbi.ac.ke/
-X-CADC-MEETING-NUMBER:9960
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:cadc-9965@cadc2ical
 DTSTAMP:20260311T152909Z
 DTSTART;VALUE=DATE:20260921
@@ -50,35 +36,6 @@ DESCRIPTION:CADC meeting #9967\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
  .ca/meetings/9967\nMeeting website: https://iram-institute.org/science-p
  ortal/events/interferometry-school/13th-iram-interferometry-school-2026/
 X-CADC-MEETING-NUMBER:9967
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:cadc-9971@cadc2ical
-DTSTAMP:20260318T142350Z
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20261003
-SUMMARY:LSST@Europe8
-LOCATION:Budapest\, Hungary
-URL:https://lsst-europe8.hu/index.php
-DESCRIPTION:CADC meeting #9971\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
- .ca/meetings/9971\nMeeting website: https://lsst-europe8.hu/index.php
-X-CADC-MEETING-NUMBER:9971
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:cadc-10017@cadc2ical
-DTSTAMP:20260605T164333Z
-DTSTART;VALUE=DATE:20260929
-DTEND;VALUE=DATE:20261003
-SUMMARY:MATISSE Science Days
-LOCATION:Budapest\, Hungary
-URL:https://vlti-ec.konkoly.hu/matisse2026/
-DESCRIPTION:CADC meeting #10017\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
- c.ca/meetings/10017\nMeeting website: https://vlti-ec.konkoly.hu/matisse
- 2026/
-X-CADC-MEETING-NUMBER:10017
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
