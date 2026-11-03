@@ -24,22 +24,6 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cadc-9967@cadc2ical
-DTSTAMP:20260311T153205Z
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20261004
-SUMMARY:13th IRAM Millimeter Interferometry School
-LOCATION:Hotel Mercure Centre Porte des Alpes in Grenoble/France
-URL:https://iram-institute.org/science-portal/events/interferometry-schoo
- l/13th-iram-interferometry-school-2026/
-DESCRIPTION:CADC meeting #9967\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
- .ca/meetings/9967\nMeeting website: https://iram-institute.org/science-p
- ortal/events/interferometry-school/13th-iram-interferometry-school-2026/
-X-CADC-MEETING-NUMBER:9967
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:cadc-9980@cadc2ical
 DTSTAMP:20260401T164423Z
 DTSTART;VALUE=DATE:20261005
@@ -1235,6 +1219,22 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:cadc-10137@cadc2ical
+DTSTAMP:20261102T214300Z
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270313
+SUMMARY:Multiphase Outflows 2027: Stellar Feedback and the Driving of Mul
+ tiphase Galactic Winds
+LOCATION:Schloss Aspenstein\, Kochel am See\, Bavaria\, Germany
+URL:https://multiphaseoutflows.pages.mpcdf.de
+DESCRIPTION:CADC meeting #10137\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10137\nMeeting website: https://multiphaseoutflows.pages.m
+ pcdf.de
+X-CADC-MEETING-NUMBER:10137
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:cadc-10061@cadc2ical
 DTSTAMP:20260818T231835Z
 DTSTART;VALUE=DATE:20270308
@@ -1346,14 +1346,15 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:cadc-10086@cadc2ical
-DTSTAMP:20261028T165910Z
+DTSTAMP:20261102T222449Z
 DTSTART;VALUE=DATE:20270322
 DTEND;VALUE=DATE:20270326
 SUMMARY:Exploring Cosmic Ecosystems: New Frontiers in Survey Astrophysics
 LOCATION:Pasadena\, CA
-URL:https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10086
+URL:https://conference.ipac.caltech.edu/astrosurveys2027
 DESCRIPTION:CADC meeting #10086\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
- c.ca/meetings/10086
+ c.ca/meetings/10086\nMeeting website: https://conference.ipac.caltech.ed
+ u/astrosurveys2027
 X-CADC-MEETING-NUMBER:10086
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1418,6 +1419,21 @@ URL:https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10008
 DESCRIPTION:CADC meeting #10008\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
  c.ca/meetings/10008
 X-CADC-MEETING-NUMBER:10008
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10138@cadc2ical
+DTSTAMP:20261102T214145Z
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270410
+SUMMARY:FornaX collaboration meeting 2027
+LOCATION:Salamanca\, Spain
+URL:https://cosmostat.github.io/fornaX_2027/
+DESCRIPTION:CADC meeting #10138\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10138\nMeeting website: https://cosmostat.github.io/fornaX
+ _2027/
+X-CADC-MEETING-NUMBER:10138
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2189,6 +2205,21 @@ URL:https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10111
 DESCRIPTION:CADC meeting #10111\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
  c.ca/meetings/10111
 X-CADC-MEETING-NUMBER:10111
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10139@cadc2ical
+DTSTAMP:20261102T214049Z
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270911
+SUMMARY:Stirring chemical evolution of galaxies near and far through gas-
+ phase and dust abundances
+LOCATION:Garching near Munich
+URL:https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10139
+DESCRIPTION:CADC meeting #10139\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10139
+X-CADC-MEETING-NUMBER:10139
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
