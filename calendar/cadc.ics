@@ -2284,6 +2284,22 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:cadc-10140@cadc2ical
+DTSTAMP:20261103T155931Z
+DTSTART;VALUE=DATE:20270920
+DTEND;VALUE=DATE:20270925
+SUMMARY:Exploring the Universe across Space and Time - Celebrating the 10
+ 0th General Assembly of the German Astronomical Society
+LOCATION:Heidelberg (Germany)
+URL:https://ag2027.astronomische-gesellschaft.de
+DESCRIPTION:CADC meeting #10140\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10140\nMeeting website: https://ag2027.astronomische-gesel
+ lschaft.de
+X-CADC-MEETING-NUMBER:10140
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:cadc-10091@cadc2ical
 DTSTAMP:20261005T225310Z
 DTSTART;VALUE=DATE:20270920

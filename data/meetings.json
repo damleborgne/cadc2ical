@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T11:57:39+00:00",
+  "generated_at": "2026-11-04T12:11:08+00:00",
   "meetings": [
     {
       "number": "7355",
@@ -1760,6 +1760,16 @@
       "website": "",
       "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10139",
       "pub_date": "2026-11-02T21:40:49Z"
+    },
+    {
+      "number": "10140",
+      "title": "Exploring the Universe across Space and Time - Celebrating the 100th General Assembly of the German Astronomical Society",
+      "start_date": "2027-09-20",
+      "end_date": "2027-09-24",
+      "location": "Heidelberg (Germany)",
+      "website": "https://ag2027.astronomische-gesellschaft.de",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10140",
+      "pub_date": "2026-11-03T15:59:31Z"
     }
   ]
 }
