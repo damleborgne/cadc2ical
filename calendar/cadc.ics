@@ -1692,14 +1692,15 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:cadc-10121@cadc2ical
-DTSTAMP:20261019T151101Z
+DTSTAMP:20261104T150830Z
 DTSTART;VALUE=DATE:20270607
 DTEND;VALUE=DATE:20270619
 SUMMARY:SIDM Donostia 2027: Dark Matter Dynamics Across Cosmic Epochs
 LOCATION:Donostia International Physics Center\, San Sebastián\, Spain
-URL:https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10121
+URL:https://sidm-donostia-2027.dipc.org/
 DESCRIPTION:CADC meeting #10121\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
- c.ca/meetings/10121
+ c.ca/meetings/10121\nMeeting website: https://sidm-donostia-2027.dipc.or
+ g/
 X-CADC-MEETING-NUMBER:10121
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2154,14 +2155,15 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:cadc-9910@cadc2ical
-DTSTAMP:20260115T210935Z
+DTSTAMP:20261104T150933Z
 DTSTART;VALUE=DATE:20270906
 DTEND;VALUE=DATE:20270911
-SUMMARY:Potsdam Thinkshop: Clouds over Potsdam
+SUMMARY:Potsdam Thinkshop: Clouds over the Havel (XMC-IV)
 LOCATION:Leibniz Institute for Astrophysics Potsdam (AIP)
-URL:https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/9910
+URL:https://meetings.aip.de/event/15/overview
 DESCRIPTION:CADC meeting #9910\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
- .ca/meetings/9910
+ .ca/meetings/9910\nMeeting website: https://meetings.aip.de/event/15/ove
+ rview
 X-CADC-MEETING-NUMBER:9910
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T12:11:08+00:00",
+  "generated_at": "2026-11-05T12:24:31+00:00",
   "meetings": [
     {
       "number": "7355",
@@ -213,13 +213,13 @@
     },
     {
       "number": "9910",
-      "title": "Potsdam Thinkshop: Clouds over Potsdam",
+      "title": "Potsdam Thinkshop: Clouds over the Havel (XMC-IV)",
       "start_date": "2027-09-06",
       "end_date": "2027-09-10",
       "location": "Leibniz Institute for Astrophysics Potsdam (AIP)",
-      "website": "",
+      "website": "https://meetings.aip.de/event/15/overview",
       "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/9910",
-      "pub_date": "2026-01-15T21:09:35Z"
+      "pub_date": "2026-11-04T15:09:33Z"
     },
     {
       "number": "9914",
@@ -1597,9 +1597,9 @@
       "start_date": "2027-06-07",
       "end_date": "2027-06-18",
       "location": "Donostia International Physics Center, San Sebastián, Spain",
-      "website": "",
+      "website": "https://sidm-donostia-2027.dipc.org/",
       "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10121",
-      "pub_date": "2026-10-19T15:11:01Z"
+      "pub_date": "2026-11-04T15:08:30Z"
     },
     {
       "number": "10122",
