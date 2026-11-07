@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T12:08:43+00:00",
+  "generated_at": "2026-11-07T11:05:48+00:00",
   "meetings": [
     {
       "number": "7355",
@@ -1770,6 +1770,16 @@
       "website": "https://ag2027.astronomische-gesellschaft.de",
       "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10140",
       "pub_date": "2026-11-03T15:59:31Z"
+    },
+    {
+      "number": "10141",
+      "title": "33rd International Astronomical Union General Assembly",
+      "start_date": "2027-08-10",
+      "end_date": "2027-08-19",
+      "location": "Rome, Italy",
+      "website": "https://iaurome2027.org/",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10141",
+      "pub_date": "2026-11-06T14:37:34Z"
     }
   ]
 }
