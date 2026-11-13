@@ -901,6 +901,20 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:cadc-10143@cadc2ical
+DTSTAMP:20261112T151023Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270206
+SUMMARY:Nordic Winter School on Black Holes and Gravitational Waves
+LOCATION:Skeikampen\, Norway
+URL:https://nordicwinterschool.org/
+DESCRIPTION:CADC meeting #10143\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10143\nMeeting website: https://nordicwinterschool.org/
+X-CADC-MEETING-NUMBER:10143
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:cadc-10065@cadc2ical
 DTSTAMP:20260907T224704Z
 DTSTART;VALUE=DATE:20270201
@@ -1567,6 +1581,21 @@ DESCRIPTION:CADC meeting #10043\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
  c.ca/meetings/10043\nMeeting website: https://sites.lsa.umich.edu/xrism2
  027/
 X-CADC-MEETING-NUMBER:10043
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10142@cadc2ical
+DTSTAMP:20261112T150902Z
+DTSTART;VALUE=DATE:20270607
+DTEND;VALUE=DATE:20270611
+SUMMARY:Frontiers in Baryonic Halos: New Insights into the resolved circu
+ mgalactic medium and faint stellar halos
+LOCATION:Chicago\, IL
+URL:https://halos2027.github.io
+DESCRIPTION:CADC meeting #10142\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10142\nMeeting website: https://halos2027.github.io
+X-CADC-MEETING-NUMBER:10142
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT

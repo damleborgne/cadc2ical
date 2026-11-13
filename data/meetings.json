@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T12:46:04+00:00",
+  "generated_at": "2026-11-13T12:16:01+00:00",
   "meetings": [
     {
       "number": "7355",
@@ -1780,6 +1780,26 @@
       "website": "https://iaurome2027.org/",
       "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10141",
       "pub_date": "2026-11-06T14:37:34Z"
+    },
+    {
+      "number": "10142",
+      "title": "Frontiers in Baryonic Halos: New Insights into the resolved circumgalactic medium and faint stellar halos",
+      "start_date": "2027-06-07",
+      "end_date": "2027-06-10",
+      "location": "Chicago, IL",
+      "website": "https://halos2027.github.io",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10142",
+      "pub_date": "2026-11-12T15:09:02Z"
+    },
+    {
+      "number": "10143",
+      "title": "Nordic Winter School on Black Holes and Gravitational Waves",
+      "start_date": "2027-01-31",
+      "end_date": "2027-02-05",
+      "location": "Skeikampen, Norway",
+      "website": "https://nordicwinterschool.org/",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10143",
+      "pub_date": "2026-11-12T15:10:23Z"
     }
   ]
 }
