@@ -9,67 +9,6 @@ X-WR-CALDESC:International astronomy meetings mirrored from the CADC RSS
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:cadc-9901@cadc2ical
-DTSTAMP:20260108T215944Z
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261017
-SUMMARY:5th Astro-COLIBRI Multi-Messenger Astrophysics Workshop
-LOCATION:Institut Pascal\, University Paris-Saclay (France)
-URL:https://multimessenger-astrophysics.com/
-DESCRIPTION:CADC meeting #9901\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
- .ca/meetings/9901\nMeeting website: https://multimessenger-astrophysics.
- com/
-X-CADC-MEETING-NUMBER:9901
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:cadc-9979@cadc2ical
-DTSTAMP:20260414T221554Z
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261017
-SUMMARY:ACME Hands-On Observational School in Optical Follow-Up of Transi
- ents
-LOCATION:Asiago (Italy)
-URL:https://acme-asiago-sch.sciencesconf.org/
-DESCRIPTION:CADC meeting #9979\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
- .ca/meetings/9979\nMeeting website: https://acme-asiago-sch.sciencesconf
- .org/
-X-CADC-MEETING-NUMBER:9979
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:cadc-9888@cadc2ical
-DTSTAMP:20251218T193122Z
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261017
-SUMMARY:Many faces of stellar-mass black holes
-LOCATION:Kathmandu\, Nepal
-URL:https://sites.google.com/view/bh-nepal-2026/home
-DESCRIPTION:CADC meeting #9888\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
- .ca/meetings/9888\nMeeting website: https://sites.google.com/view/bh-nep
- al-2026/home
-X-CADC-MEETING-NUMBER:9888
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:cadc-9889@cadc2ical
-DTSTAMP:20251218T193252Z
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261017
-SUMMARY:the Pathfinder HI SCience Community (PHISCC) Workshop 2026
-LOCATION:Kavli Inst. for Astronomy & Astrophysics (KIAA)\, Peking Univ.\,
-  Beijing\, China
-URL:https://phiscc2026.github.io/
-DESCRIPTION:CADC meeting #9889\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
- .ca/meetings/9889\nMeeting website: https://phiscc2026.github.io/
-X-CADC-MEETING-NUMBER:9889
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:cadc-10003@cadc2ical
 DTSTAMP:20260515T175051Z
 DTSTART;VALUE=DATE:20261019
