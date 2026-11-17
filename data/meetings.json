@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T12:48:08+00:00",
+  "generated_at": "2026-11-17T13:29:29+00:00",
   "meetings": [
     {
       "number": "7355",
@@ -1800,6 +1800,46 @@
       "website": "https://nordicwinterschool.org/",
       "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10143",
       "pub_date": "2026-11-12T15:10:23Z"
+    },
+    {
+      "number": "10144",
+      "title": "Cosmology on Safari 2027",
+      "start_date": "2027-03-14",
+      "end_date": "2027-03-20",
+      "location": "Maun, Botswana",
+      "website": "https://cosmosafari.co.za/",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10144",
+      "pub_date": "2026-11-16T20:36:03Z"
+    },
+    {
+      "number": "10145",
+      "title": "Physics of Disk Migration",
+      "start_date": "2027-06-14",
+      "end_date": "2027-06-17",
+      "location": "Flatiron Institute, Center for Computational Astrophysics, New York",
+      "website": "https://users.flatironinstitute.org/~parmitage/CCA_Disk_Migration_Workshop2027.html",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10145",
+      "pub_date": "2026-11-16T20:33:28Z"
+    },
+    {
+      "number": "10146",
+      "title": "Physical Processes in the Variable and Transient Universe",
+      "start_date": "2027-10-03",
+      "end_date": "2027-10-08",
+      "location": "Sala Consiliare, Fabriano (Ancona), Italy",
+      "website": "",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10146",
+      "pub_date": "2026-11-16T20:36:47Z"
+    },
+    {
+      "number": "10147",
+      "title": "Unveiling the Particle Nature of the Dark Universe with Radio Astronomy",
+      "start_date": "2027-04-06",
+      "end_date": "2027-04-08",
+      "location": "Green Bank Observatory, WV, USA",
+      "website": "https://greenbankobservatory.org/events/dark-energy-workshop/",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10147",
+      "pub_date": "2026-11-16T20:51:28Z"
     }
   ]
 }

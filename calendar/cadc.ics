@@ -1117,6 +1117,20 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:cadc-10144@cadc2ical
+DTSTAMP:20261116T203603Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270321
+SUMMARY:Cosmology on Safari 2027
+LOCATION:Maun\, Botswana
+URL:https://cosmosafari.co.za/
+DESCRIPTION:CADC meeting #10144\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10144\nMeeting website: https://cosmosafari.co.za/
+X-CADC-MEETING-NUMBER:10144
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:cadc-10089@cadc2ical
 DTSTAMP:20261005T205107Z
 DTSTART;VALUE=DATE:20270315
@@ -1267,6 +1281,22 @@ DESCRIPTION:CADC meeting #10138\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
  c.ca/meetings/10138\nMeeting website: https://cosmostat.github.io/fornaX
  _2027/
 X-CADC-MEETING-NUMBER:10138
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10147@cadc2ical
+DTSTAMP:20261116T205128Z
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270409
+SUMMARY:Unveiling the Particle Nature of the Dark Universe with Radio Ast
+ ronomy
+LOCATION:Green Bank Observatory\, WV\, USA
+URL:https://greenbankobservatory.org/events/dark-energy-workshop/
+DESCRIPTION:CADC meeting #10147\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10147\nMeeting website: https://greenbankobservatory.org/e
+ vents/dark-energy-workshop/
+X-CADC-MEETING-NUMBER:10147
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1610,6 +1640,23 @@ DESCRIPTION:CADC meeting #10083\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
  c.ca/meetings/10083\nMeeting website: https://www.sexten-cfa.eu/event/hs
  g27/
 X-CADC-MEETING-NUMBER:10083
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10145@cadc2ical
+DTSTAMP:20261116T203328Z
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270618
+SUMMARY:Physics of Disk Migration
+LOCATION:Flatiron Institute\, Center for Computational Astrophysics\, New
+  York
+URL:https://users.flatironinstitute.org/~parmitage/CCA_Disk_Migration_Wor
+ kshop2027.html
+DESCRIPTION:CADC meeting #10145\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10145\nMeeting website: https://users.flatironinstitute.or
+ g/~parmitage/CCA_Disk_Migration_Workshop2027.html
+X-CADC-MEETING-NUMBER:10145
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2205,6 +2252,20 @@ URL:https://www.adass2027.org/
 DESCRIPTION:CADC meeting #10080\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
  c.ca/meetings/10080\nMeeting website: https://www.adass2027.org/
 X-CADC-MEETING-NUMBER:10080
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc-10146@cadc2ical
+DTSTAMP:20261116T203647Z
+DTSTART;VALUE=DATE:20271003
+DTEND;VALUE=DATE:20271009
+SUMMARY:Physical Processes in the Variable and Transient Universe
+LOCATION:Sala Consiliare\, Fabriano (Ancona)\, Italy
+URL:https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10146
+DESCRIPTION:CADC meeting #10146\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10146
+X-CADC-MEETING-NUMBER:10146
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
