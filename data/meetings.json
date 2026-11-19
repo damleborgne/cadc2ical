@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T13:05:50+00:00",
+  "generated_at": "2026-11-19T13:14:09+00:00",
   "meetings": [
     {
       "number": "7355",
@@ -1840,6 +1840,16 @@
       "website": "https://greenbankobservatory.org/events/dark-energy-workshop/",
       "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10147",
       "pub_date": "2026-11-16T20:51:28Z"
+    },
+    {
+      "number": "10148",
+      "title": "887th Wilhelm and Else Heraeus Seminar on Neutron Stars & Pulsars: From Ultra-Dense Matter to Multi-Wavelength Radiation",
+      "start_date": "2027-06-21",
+      "end_date": "2027-06-26",
+      "location": "Physics Centre Bad Honnef, Germany",
+      "website": "https://projects.mpe.mpg.de/heg/887-heraeus-seminar",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10148",
+      "pub_date": "2026-11-18T18:56:26Z"
     }
   ]
 }

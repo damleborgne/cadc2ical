@@ -1706,6 +1706,22 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:cadc-10148@cadc2ical
+DTSTAMP:20261118T185626Z
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270627
+SUMMARY:887th Wilhelm and Else Heraeus Seminar on Neutron Stars & Pulsars
+ : From Ultra-Dense Matter to Multi-Wavelength Radiation
+LOCATION:Physics Centre Bad Honnef\, Germany
+URL:https://projects.mpe.mpg.de/heg/887-heraeus-seminar
+DESCRIPTION:CADC meeting #10148\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
+ c.ca/meetings/10148\nMeeting website: https://projects.mpe.mpg.de/heg/88
+ 7-heraeus-seminar
+X-CADC-MEETING-NUMBER:10148
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:cadc-10030@cadc2ical
 DTSTAMP:20260713T145559Z
 DTSTART;VALUE=DATE:20270621
