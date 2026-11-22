@@ -72,22 +72,6 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cadc-9136@cadc2ical
-DTSTAMP:20251104T165314Z
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261023
-SUMMARY:The 1st International Online Conference on Symmetry - Recent Adva
- nces in Mathematics and Physics
-LOCATION:Online
-URL:https://sciforum.net/event/IOCSYM2026
-DESCRIPTION:CADC meeting #9136\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
- .ca/meetings/9136\nMeeting website: https://sciforum.net/event/IOCSYM202
- 6
-X-CADC-MEETING-NUMBER:9136
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:cadc-10036@cadc2ical
 DTSTAMP:20260715T182417Z
 DTSTART;VALUE=DATE:20261023
