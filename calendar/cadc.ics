@@ -9,21 +9,6 @@ X-WR-CALDESC:International astronomy meetings mirrored from the CADC RSS
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:cadc-10002@cadc2ical
-DTSTAMP:20260515T175139Z
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261024
-SUMMARY:INTEGRAL Legacy Conference 2026
-LOCATION:Paris\, France
-URL:https://integral2026.sciencesconf.org
-DESCRIPTION:CADC meeting #10002\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
- c.ca/meetings/10002\nMeeting website: https://integral2026.sciencesconf.
- org
-X-CADC-MEETING-NUMBER:10002
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:cadc-9986@cadc2ical
 DTSTAMP:20260418T155958Z
 DTSTART;VALUE=DATE:20261019
@@ -37,37 +22,6 @@ DESCRIPTION:CADC meeting #9986\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
  .ca/meetings/9986\nMeeting website: https://congresos.unlp.edu.ar/xiilap
  is2026/
 X-CADC-MEETING-NUMBER:9986
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:cadc-9945@cadc2ical
-DTSTAMP:20260423T013845Z
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261024
-SUMMARY:SPARCS XIV: The SKAO Awakens (SKA Pathfinder and Radio Continuum 
- Surveys conference)
-LOCATION:Seoul\, South Korea
-URL:https://ska.kasi.re.kr/meetings/oct-2026-sparcs-xiv
-DESCRIPTION:CADC meeting #9945\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
- .ca/meetings/9945\nMeeting website: https://ska.kasi.re.kr/meetings/oct-
- 2026-sparcs-xiv
-X-CADC-MEETING-NUMBER:9945
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:cadc-10093@cadc2ical
-DTSTAMP:20261006T165929Z
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261024
-SUMMARY:IAU WG-PDPP Workshop 2026: Photographic Astronomical Spectra
-LOCATION:Online via Zoom
-URL:https://nadc.china-vo.org/events/PDPP2026
-DESCRIPTION:CADC meeting #10093\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
- c.ca/meetings/10093\nMeeting website: https://nadc.china-vo.org/events/P
- DPP2026
-X-CADC-MEETING-NUMBER:10093
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
