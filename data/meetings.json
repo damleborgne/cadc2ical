@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T14:54:10+00:00",
+  "generated_at": "2026-11-25T14:26:34+00:00",
   "meetings": [
     {
       "number": "7355",
@@ -1829,7 +1829,7 @@
       "location": "Sala Consiliare, Fabriano (Ancona), Italy",
       "website": "",
       "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10146",
-      "pub_date": "2026-11-16T20:36:47Z"
+      "pub_date": "2026-11-24T15:59:57Z"
     },
     {
       "number": "10147",
@@ -1850,6 +1850,16 @@
       "website": "https://projects.mpe.mpg.de/heg/887-heraeus-seminar",
       "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10148",
       "pub_date": "2026-11-18T18:56:26Z"
+    },
+    {
+      "number": "10149",
+      "title": "The ngVLA Science Frontier: Planets, Galaxies, and Everything in Between and Beyond",
+      "start_date": "2027-06-07",
+      "end_date": "2027-06-10",
+      "location": "INAF-Astronomical Observatory of Capodimonte - Naples, Italy",
+      "website": "https://indico.ict.inaf.it/event/3746/",
+      "cadc_url": "https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10149",
+      "pub_date": "2026-11-24T16:01:01Z"
     }
   ]
 }
