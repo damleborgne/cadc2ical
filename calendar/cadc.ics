@@ -42,20 +42,6 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cadc-9951@cadc2ical
-DTSTAMP:20260225T161657Z
-DTSTART;VALUE=DATE:20261026
-DTEND;VALUE=DATE:20261029
-SUMMARY:YAGN26 - Young Astronomers on Galactic Nuclei
-LOCATION:Universidad de Sevilla\, Spain
-URL:https://eventos.us.es/go/yagn26
-DESCRIPTION:CADC meeting #9951\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.gc
- .ca/meetings/9951\nMeeting website: https://eventos.us.es/go/yagn26
-X-CADC-MEETING-NUMBER:9951
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:cadc-10040@cadc2ical
 DTSTAMP:20260719T013646Z
 DTSTART;VALUE=DATE:20261027
@@ -823,14 +809,15 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:cadc-10078@cadc2ical
-DTSTAMP:20260928T164528Z
+DTSTAMP:20261127T214419Z
 DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270220
-SUMMARY:LISA-focused Workshop in Melbourne
+SUMMARY:LISA Workshop in Melbourne
 LOCATION:Melbourne
-URL:https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/meetings/10078
+URL:https://www.ozgrav.org/events/lisa-workshop-2027/
 DESCRIPTION:CADC meeting #10078\nhttps://www.cadc-ccda.hia-iha.nrc-cnrc.g
- c.ca/meetings/10078
+ c.ca/meetings/10078\nMeeting website: https://www.ozgrav.org/events/lisa
+ -workshop-2027/
 X-CADC-MEETING-NUMBER:10078
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
